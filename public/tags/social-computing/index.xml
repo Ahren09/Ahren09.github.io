@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Computing | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/social-computing/</link>
+      <atom:link href="http://localhost:1313/tags/social-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Social Computing</title>
+      <link>http://localhost:1313/tags/social-computing/</link>
+    </image>
+    
+    <item>
+      <title>Welcome to My Research Journey</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;my-research-journey&#34;&gt;My Research Journey&lt;/h2&gt;
+&lt;p&gt;Welcome to my academic website! I&amp;rsquo;m Yiqiao Jin, a CS PhD student at Georgia Institute of Technology, advised by Professor Srijan Kumar. My research focuses on the intersection of Large Language Models (LLMs), Multimodal Learning, and Social Computing.&lt;/p&gt;
+&lt;h2 id=&#34;current-research-areas&#34;&gt;Current Research Areas&lt;/h2&gt;
+&lt;p&gt;My work spans several interconnected domains:&lt;/p&gt;
+&lt;h3 id=&#34;-large-language-models-llms&#34;&gt;🤖 Large Language Models (LLMs)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Safety and Robustness&lt;/strong&gt;: Developing methods to make LLMs more reliable and safe for real-world deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-lingual Evaluation&lt;/strong&gt;: Understanding how LLMs perform across different languages and cultural contexts&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Agent-based Systems&lt;/strong&gt;: Exploring how LLMs can work together in multi-agent environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-multimodal-learning&#34;&gt;🌐 Multimodal Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Social Media Understanding&lt;/strong&gt;: Building models that can comprehend multimodal content on social platforms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web UI and Video Tutorial Understanding&lt;/strong&gt;: Developing systems that can interpret and interact with visual interfaces&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Protein Structure Analysis&lt;/strong&gt;: Applying multimodal approaches to biological data understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-social-computing&#34;&gt;📊 Social Computing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Information Pathways&lt;/strong&gt;: Predicting how information spreads across online communities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fair Graph Mining&lt;/strong&gt;: Ensuring fairness in graph-based machine learning systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamic Graph Analysis&lt;/strong&gt;: Understanding temporal patterns in social networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recent-highlights&#34;&gt;Recent Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EMNLP 2025&lt;/strong&gt;: Published work on peer review dynamics using LLM agents&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ACL 2025&lt;/strong&gt;: Benchmarking multimodal LLMs in social media platforms&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TheWebConf 2025&lt;/strong&gt;: Cross-lingual evaluation of LLMs for healthcare queries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;KDD 2023&lt;/strong&gt;: Predicting information pathways across online communities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;beyond-research&#34;&gt;Beyond Research&lt;/h2&gt;
+&lt;p&gt;When I&amp;rsquo;m not diving deep into research, I enjoy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🥾 &lt;strong&gt;Hiking&lt;/strong&gt;: Exploring nature trails and mountain paths&lt;/li&gt;
+&lt;li&gt;📷 &lt;strong&gt;Photography&lt;/strong&gt;: Capturing moments and landscapes&lt;/li&gt;
+&lt;li&gt;🐰 &lt;strong&gt;Rabbit Care&lt;/strong&gt;: Taking care of my beloved pet rabbit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m always excited to discuss research ideas, collaborate on projects, or just chat about the fascinating world of AI and social computing. Feel free to reach out through any of the channels listed on this site.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This website showcases my research journey, publications, and ongoing projects. Stay tuned for updates on my latest work and findings!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
