@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'AgentReview: Exploring Peer Review Dynamics with LLM Agents'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,7 +10,7 @@ authors:
   - Yiyang Wang 
   - Hao Chen
   - Kaijie Zhu
-  -  Yijia Xiao 
+  - Yijia Xiao 
   - Jindong Wang
 
 # Author notes (optional)
@@ -48,13 +48,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/abs/2406.12708'
+url_code: 'https://github.com/Ahren09/AgentReview'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://huggingface.co/spaces/Ahren09/AgentReview'
 url_video: 'https://youtube.com'
 
 # Featured image
