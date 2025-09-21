@@ -11,7 +11,7 @@ last_name: Jin
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍀
 
 # Is this the primary user of the site?
 superuser: true
@@ -28,21 +28,21 @@ organizations:
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large language models (LLMs) and multimodal learning, especially the evaluation, application, and fine-tuning of LLMs.
+bio: My research interests include large language models (LLMs), multi-agent systems (MASs), and multimodal models.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:yjin328@gatech.edu'
+    url: 'yjin328 AT gatech.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AhrenJin
+    url: https://x.com/AhrenJin
     label: Follow me on Twitter
   - icon: brands/github
     url: https://github.com/Ahren09
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ahren-jin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=eY85qm4AAAAJ
   - icon: academicons/cv
@@ -50,16 +50,16 @@ profiles:
 
 interests:
   - Large Language Models (LLM)
-  - Multimodal Learning
-  - Human-Centric AI
+  - Multimodal AI Models
+  - Efficient AI
   - Data Mining
   - Graph Neural Networks
 
 education:
   - area: Ph.D. in Computer Science
-    institution: Georgia Institute of Technology (GaTech)
-    date_start: 2022-08-24
-    date_end: 2027-05-04
+    institution: Georgia Institute of Technology (Georgia Tech)
+    date_start: 2022-08-22
+    date_end: 2026-12-04
     summary: |
       Research focus on Large Language Models, Multimodal Learning, and Social Computing
   - area: B.S in Computer Science
@@ -76,15 +76,22 @@ work:
     date_start: 2022-08-22
     date_end: ''
     summary: |2-
-      - Research Topics: Large Language Models (WebConf'24, ACL'24), LLM Safety (In preparation for NAACL'25), Multimodal Models (ACL'24), Recommender Systems and Dynamic Graph Mining (KDD'23), Social Network Analysis (CIKM'24, KDD'23), Fair Graph Mining (CIKM'24).
+      - Research Topics: Large Language Models (WebConf'24, ACL'24), LLM Safety (), Multimodal Models (ACL'24), Recommender Systems and Dynamic Graph Mining (KDD'23), Social Network Analysis (CIKM'24, KDD'23), Fair Graph Mining (CIKM'24).
       - Advisor: Dr. Srijan Kumar
   - position: Research Intern
     company_name: J.P. Morgan AI Research
     company_url: 'https://www.jpmorgan.com/technology/artificial-intelligence'
     date_start: 2025-06-02
-    date_end: 2024-08-15
+    date_end: 2025-08-15
     summary: |
       - Research Topics: Multimodal Large Language Models (MLLMs). Infographics Understanding.
+  - position: Research Intern (part-time)
+    company_name: Visa Research
+    company_url: 'https://usa.visa.com/about-visa/visa-research.html'
+    date_start: 2024-09-15
+    date_end: 2025-05-15
+    summary: |
+      - Research Topics: Retrieval-augmented Generation (RAG). Large Language Models (LLMs). Efficient AI.
   - position: Research Intern
     company_name: Adobe Inc.
     company_url: 'https://www.adobe.com/'
@@ -140,27 +147,27 @@ skills:
         description: ''
         percent: 95
         icon: chart-bar
+      - name: Multi-agent Systems (MASs)
+        description: ''
+        percent: 95
+        icon: chart-bar
       - name: Natural Language Processing
         description: ''
         percent: 95
         icon: chart-bar
+      - name: Social Computing
+        description: ''
+        percent: 90
+        icon: users
       
       - name: Graph Neural Networks
         description: ''
         percent: 85
         icon: circle-stack
-      - name: Social Computing
-        description: ''
-        percent: 90
-        icon: users
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Rabbit
         description: ''
         percent: 100
@@ -169,6 +176,10 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
 
 languages:
   - name: English
@@ -183,39 +194,45 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network's architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin's real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin's Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Best Paper Award at Good-Data @ AAAI'25 Workshop
+    date: '2025-03-03'
+    awarder: AAAI Conference
+    icon: academicons/orcid
+    summary: "Recognized for outstanding research contribution in data quality and AI systems."
+  - title: Roblox Graduate Fellowship Finalist
+    date: '2025-01-01'
+    awarder: Roblox Corporation
+    icon: code-bracket
+    summary: "Selected as finalist for prestigious graduate fellowship supporting innovative research in AI and gaming."
+  - title: AAAI Student Scholarship (3 times)
+    date: '2025-03-01'
+    awarder: AAAI Conference
+    icon: academicons/orcid
+    summary: "Received student scholarship for AAAI conferences in 2022, 2023, and 2025."
+  - title: Microsoft Research "Star of Tomorrow" Award of Excellence
+    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+    date: '2021-06-10'
+    awarder: Microsoft Research
+    icon: assets/media/icons/brands/logo_microsoft.svg
+    summary: "Awarded for exceptional research contributions during internship at Microsoft Research Asia."
+  - title: UCLA Dean's Honor List for Superior Academic Achievement (5 times)
+    date: '2021-12-01'
+    awarder: UCLA
+    icon: assets/media/icons/brands/logo_ucla.svg
+    summary: "Achieved Dean's Honor List recognition in Spring 2019, Winter 2020, Spring 2020, Winter 2021, and Spring 2021."
 ---
 
 ## About Me
 
-Yiqiao Jin (靳轶乔, Ahren) is a CS Ph.D. student at Georgia Institute of Technology, advised by Professor [Srijan Kumar](https://cc.gatech.edu/~srijan/). 
+Hello👋! I am Yiqiao Jin (靳轶乔, Ahren), a CS Ph.D. student at Georgia Institute of Technology, advised by Prof. [Srijan Kumar](https://cc.gatech.edu/~srijan/). 
 
-Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and [Dr. Jindong Wang](https://jd92.wang/), and lead research projects on Large Language Models, Explainable NLP, Computational Social Science, and Recommender Systems.
+I develop efficient multimodal AI systems, such as multi-agent systems (MASs) and multimodal large language models (MLLMs). 
 
-Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph neural networks and recommender systems under the mentorship of [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
+
+My research has led to <b>20+ top-tier publications</b>, along with recognition including the <b>Microsoft Research "Star of Tomorrow" Award</b>, <b>Roblox Graduate Fellowship Finalist</b>, and <b>UCLA Dean’s Honor List</b> (5 times). My works are featured in leading media outlets such as <a href="https://www.scientificamerican.com/article/chatbots-medical-questions-language/">Scientific American</a> and <a href="https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages"> The World</a>.
+
+During my doctoral studies 🎓, I worked as a Research Scientist Intern at J.P. Morgan AI Research, Adobe Research, and Visa Research.
+
+Previously, as an undergraduate at UCLA 🧑‍💻, I worked as a research scientist intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?user=5EQfAFIAAAAJ). I was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and [Dr. Jindong Wang](https://jd92.wang/), and lead research projects on Large Language Models, Explainable NLP, and Large Language Models. I also worked as a research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph neural networks and recommender systems under the mentorship of [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
 
 {style="text-align: justify;"}

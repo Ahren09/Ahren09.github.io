@@ -1,0 +1,6 @@
+# Paper Figure Extraction Dependencies
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+arxiv>=1.4.8
+requests>=2.31.0
+PyYAML>=6.0.1

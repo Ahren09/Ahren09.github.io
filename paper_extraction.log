@@ -1,0 +1,197 @@
+2025-09-21 16:05:17,040 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:05:17,042 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:05:17,044 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:05:17,046 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:05:17,047 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:05:17,049 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:05:17,051 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:05:17,052 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:05:17,054 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:05:17,055 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:05:17,057 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:05:17,057 - INFO - Processing: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:05:17,057 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2110.15064&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:05:18,093 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:05:21,970 - INFO - Extracted 2 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpclbgou7a/2110.15064.pdf
+2025-09-21 16:05:21,970 - INFO - Selected figure from page 6 for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:05:22,361 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/aaai22_towards_fine-grained_reasoning_for_fake_news_detec/featured.jpg
+2025-09-21 16:05:22,361 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/aaai22_towards_fine-grained_reasoning_for_fake_news_detec/index.md
+2025-09-21 16:05:31,745 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:05:31,747 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:05:31,749 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:05:31,750 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:05:31,752 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:05:31,754 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:05:31,755 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:05:31,757 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:05:31,758 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:05:31,760 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:05:31,762 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:05:31,762 - INFO - Processing: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:05:31,762 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2402.14154&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:05:32,363 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:05:34,527 - INFO - Extracted 13 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmp_zti_5kn/2402.14154.pdf
+2025-09-21 16:05:34,527 - INFO - Selected figure from page 1 for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:05:34,542 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/acl24_mm-soc_benchmarking_multimodal_large_language_mode/featured.jpg
+2025-09-21 16:05:34,542 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/acl24_mm-soc_benchmarking_multimodal_large_language_mode/index.md
+2025-09-21 16:05:38,166 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:05:38,168 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:05:38,169 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:05:38,171 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:05:38,173 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:05:38,174 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:05:38,176 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:05:38,178 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:05:38,179 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:05:38,181 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:05:38,182 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:05:38,182 - INFO - Processing: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:05:38,183 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.12708&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:05:38,778 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:05:42,073 - INFO - Extracted 14 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpsy3hf4vt/2406.12708.pdf
+2025-09-21 16:05:42,073 - INFO - Selected figure from page 7 for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:05:42,145 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/emnlp24_agentreview_exploring_peer_review_dynamics_with_ll/featured.jpg
+2025-09-21 16:05:42,146 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/emnlp24_agentreview_exploring_peer_review_dynamics_with_ll/index.md
+2025-09-21 16:07:16,545 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:07:16,547 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:07:16,549 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:16,551 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:07:16,552 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:07:16,554 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:07:16,556 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:07:16,558 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:07:16,560 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:07:16,561 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:16,563 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:16,563 - INFO - Processing: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:16,563 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2402.15988&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:07:17,130 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:07:18,641 - INFO - Extracted 0 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpiamlypsy/2402.15988.pdf
+2025-09-21 16:07:18,641 - WARNING - No suitable figures found in: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:22,829 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:07:22,830 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:07:22,832 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:22,834 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:07:22,836 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:07:22,838 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:07:22,840 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:07:22,841 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:07:22,843 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:07:22,844 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:22,846 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:22,846 - INFO - Processing: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:22,846 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.13132&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:07:23,483 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:07:27,409 - INFO - Extracted 3 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmp89vnwgja/2310.13132.pdf
+2025-09-21 16:07:27,409 - INFO - Selected figure from page 1 for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:27,493 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/www24_better_to_ask_in_english_cross-lingual_evaluation_/featured.jpg
+2025-09-21 16:07:27,494 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/www24_better_to_ask_in_english_cross-lingual_evaluation_/index.md
+2025-09-21 16:07:32,573 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:07:32,574 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:07:32,576 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:32,579 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:07:32,580 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:07:32,582 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:07:32,584 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:07:32,586 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:07:32,587 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:07:32,589 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:32,590 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:32,590 - INFO - Processing: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:32,590 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.06606&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:07:33,181 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:07:40,393 - WARNING - Error extracting image 0 from page 7: unsupported colorspace for 'png'
+2025-09-21 16:07:40,403 - WARNING - Error extracting image 1 from page 7: unsupported colorspace for 'png'
+2025-09-21 16:07:40,412 - WARNING - Error extracting image 2 from page 7: unsupported colorspace for 'png'
+2025-09-21 16:07:41,021 - WARNING - Error extracting image 0 from page 8: unsupported colorspace for 'png'
+2025-09-21 16:07:41,050 - WARNING - Error extracting image 1 from page 8: unsupported colorspace for 'png'
+2025-09-21 16:07:41,079 - WARNING - Error extracting image 2 from page 8: unsupported colorspace for 'png'
+2025-09-21 16:07:41,109 - WARNING - Error extracting image 3 from page 8: unsupported colorspace for 'png'
+2025-09-21 16:07:41,139 - WARNING - Error extracting image 4 from page 8: unsupported colorspace for 'png'
+2025-09-21 16:07:41,140 - INFO - Extracted 0 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpa1zyb0bm/2406.06606.pdf
+2025-09-21 16:07:41,140 - WARNING - No suitable figures found in: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:46,290 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:07:46,292 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:07:46,293 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:07:46,295 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:07:46,297 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:07:46,299 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:07:46,301 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:07:46,302 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:07:46,304 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:07:46,305 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:07:46,307 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:07:46,307 - INFO - Processing: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:07:46,307 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.17512&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:07:47,096 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:07:52,508 - INFO - Extracted 0 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpopt32o_m/2310.17512.pdf
+2025-09-21 16:07:52,508 - WARNING - No suitable figures found in: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:09:47,369 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:09:47,371 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:09:47,372 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:09:47,374 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:09:47,376 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:09:47,378 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:09:47,379 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:09:47,381 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:09:47,382 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:09:47,384 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:09:47,386 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:09:47,386 - INFO - Processing: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:09:47,386 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2211.13638&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:09:48,438 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:09:50,037 - INFO - Extracted 0 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpq9h6zrv6/2211.13638.pdf
+2025-09-21 16:09:50,037 - WARNING - No suitable figures found in: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:09:54,234 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:09:54,235 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:09:54,237 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:09:54,239 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:09:54,241 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:09:54,243 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:09:54,244 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:09:54,246 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:09:54,248 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:09:54,249 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:09:54,251 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:09:54,251 - INFO - Processing: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:09:54,251 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2306.09712&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:09:54,814 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:09:57,550 - INFO - Extracted 2 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmp56xm0i6u/2306.09712.pdf
+2025-09-21 16:09:57,550 - INFO - Selected figure from page 2 for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:09:57,567 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/icml23_semi-offline_reinforcement_learning_for_optimized_/featured.jpg
+2025-09-21 16:09:57,568 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/icml23_semi-offline_reinforcement_learning_for_optimized_/index.md
+2025-09-21 16:10:02,760 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:10:02,762 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:10:02,763 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:10:02,765 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:10:02,767 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:10:02,769 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:10:02,770 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:10:02,772 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:10:02,774 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:10:02,775 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:10:02,777 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:10:02,777 - INFO - Processing: Predicting Information Pathways Across Online Communities
+2025-09-21 16:10:02,777 - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2306.02259&sortBy=relevance&sortOrder=descending&start=0&max_results=100
+2025-09-21 16:10:03,366 - INFO - Got first page: 1 of 1 total results
+2025-09-21 16:11:00,226 - INFO - Extracted 41 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmpi1b_qw22/2306.02259.pdf
+2025-09-21 16:11:00,227 - INFO - Selected figure from page 9 for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:11:00,324 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/kdd23_predicting_information_pathways_across_online_comm/featured.jpg
+2025-09-21 16:11:00,324 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/kdd23_predicting_information_pathways_across_online_comm/index.md
+2025-09-21 16:33:44,432 - INFO - Extracted data for: AgentReview: Exploring Peer Review Dynamics with LLM Agents
+2025-09-21 16:33:44,434 - INFO - Extracted data for: CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+2025-09-21 16:33:44,435 - INFO - Extracted data for: Prototypical Reward Network for Data-Efficient RLHF
+2025-09-21 16:33:44,437 - INFO - Extracted data for: Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+2025-09-21 16:33:44,439 - INFO - Extracted data for: Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes
+2025-09-21 16:33:44,440 - INFO - Extracted data for: Towards Fine-Grained Reasoning for Fake News Detection
+2025-09-21 16:33:44,442 - INFO - Extracted data for: MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms
+2025-09-21 16:33:44,444 - INFO - Extracted data for: Semi-Offline Reinforcement Learning for Optimized Text Generation
+2025-09-21 16:33:44,445 - INFO - Extracted data for: Predicting Information Pathways Across Online Communities
+2025-09-21 16:33:44,447 - INFO - Extracted data for: Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries
+2025-09-21 16:33:44,449 - INFO - Extracted data for: Towards Fair Graph Anomaly Detection: Problem, Benchmark Datasets, and Evaluation
+2025-09-21 16:33:44,451 - INFO - Extracted data for: Reinforcement Subgraph Reasoning for Fake News Detection
+2025-09-21 16:33:44,451 - INFO - Processing: Reinforcement Subgraph Reasoning for Fake News Detection
+2025-09-21 16:33:46,752 - INFO - Extracted 6 figure candidates from /var/folders/7t/7fdl5vm10fqbhrrf5jw1_tr00000gn/T/tmp7eve_sb0/paper.pdf
+2025-09-21 16:33:46,752 - INFO - Selected figure from page 1 for: Reinforcement Subgraph Reasoning for Fake News Detection
+2025-09-21 16:33:46,916 - INFO - Saved featured image: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/kdd22_reinforcement_subgraph_reasoning_for_fake_news_detection/featured.jpg
+2025-09-21 16:33:46,916 - INFO - Updated frontmatter: /Users/ahren/Workspace/Web/Ahren09.github.io/content/publication/kdd22_reinforcement_subgraph_reasoning_for_fake_news_detection/index.md
