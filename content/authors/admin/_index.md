@@ -76,7 +76,13 @@ work:
     date_start: 2022-08-22
     date_end: ''
     summary: |2-
-      - Research Topics: Large Language Models (WebConf'24, ACL'24), LLM Safety (), Multimodal Models (ACL'24), Recommender Systems and Dynamic Graph Mining (KDD'23), Social Network Analysis (CIKM'24, KDD'23), Fair Graph Mining (CIKM'24).
+      - Research Topics and Publications: 
+        - Large Language Models (EMNLP'25, ACL'25, Web Conference'24, ACL'24)
+        - LLM Robustness and Safety (Under Review at Web Conference'26)
+        - Multimodal Models (ACL'25, ACL'24)
+        - Recommender Systems and Dynamic Graph Mining (KDD'23)
+        - Social Network Analysis (CIKM'24, KDD'23)
+        - Fair Graph Mining (CIKM'24).
       - Advisor: Dr. Srijan Kumar
   - position: Research Intern
     company_name: J.P. Morgan AI Research
@@ -85,7 +91,7 @@ work:
     date_end: 2025-08-15
     summary: |
       - Research Topics: Multimodal Large Language Models (MLLMs). Infographics Understanding.
-  - position: Research Intern (part-time)
+  - position: Research Collaborator
     company_name: Visa Research
     company_url: 'https://usa.visa.com/about-visa/visa-research.html'
     date_start: 2024-09-15
@@ -105,8 +111,17 @@ work:
     date_start: 2020-12-22
     date_end: 2022-07-22
     summary: |
-      - Research Topics: Large Language Models (EMNLP'24, ICML'24, ICML'23, AAAI'23), LLM Agents (EMNLP'24, ICML'24), Scientometric Analysis (In preparation for NAACL'25), Computational Social Science, Misinformation Detection (KDD'22, AAAI'22), Few-shot Learning (ACL'24, AAAI'23), Explainable AI (AAAI'22).
-      - Advisors: Dr. Xiting Wang, Dr. Jindong Wang, and Dr. Xing Xie.
+      - I published over 10 papers at top-tier AI/ML conferences during my worked as a research scientist intern in Microsoft Research Asia (MSRA), Social Computing Group. I continued to collaborate with their team after my internship.
+      - Advisors: Dr. Jindong Wang, Dr. Xiting Wang, and Dr. Xing Xie. 
+      - Research Topics and Publications: 
+        - Large Language Models (EMNLP'24, ICML'24, ICML'23, AAAI'23)
+        - LLM Agents (EMNLP'24, ICML'24)
+        - Multicultural and Multimodal LLMs (NeurIPS'25), 
+        - Scientometric Analysis (Under Review at ACL'25)
+        - Computational Social Science
+        - Misinformation Detection (KDD'22, AAAI'22)
+        - Few-shot Learning (ACL'24, AAAI'23)
+        - Explainable AI (AAAI'22).
 
   - position: Undergraduate Research Assistant
     company_name: UCLA
@@ -114,8 +129,12 @@ work:
     date_start: 2021-06-25
     date_end: 2022-06-25
     summary: |
-      - Research Topics: Large Language Models (EMNLP'24), Graph Neural Networks and Data Mining (WWW'23), LLM Fine-tuning (Under Review at KDD'25), Recommender Systems (WWW'23).
-      - Advisors: Dr. Yizhou Sun, Dr. Wei Wang
+      - I worked as an undergraduate research assistant at Scalable Analytics Institute (ScAi), advised by Dr. Yizhou Sun and Dr. Wei Wang. I am continuously collaborating with ScAi Lab on various ongoing research projects.
+      - Research Topics and Publications: 
+        - Large Language Models (EMNLP'25, EMNLP'24)
+        - Graph Neural Networks and Data Mining (WWW'23)
+        - LLM Fine-tuning (Under Review at KDD'25)
+        - Recommender Systems (WWW'23)
 
 
       
@@ -231,7 +250,7 @@ I develop efficient multimodal AI systems, such as multi-agent systems (MASs) an
 
 My research has led to <b>20+ top-tier publications</b>, along with recognition including the <b>Microsoft Research "Star of Tomorrow" Award</b>, <b>Roblox Graduate Fellowship Finalist</b>, and <b>UCLA Dean’s Honor List</b> (5 times). My works are featured in leading media outlets such as <a href="https://www.scientificamerican.com/article/chatbots-medical-questions-language/">Scientific American</a> and <a href="https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages"> The World</a>.
 
-During my doctoral studies 🎓, I worked as a Research Scientist Intern at J.P. Morgan AI Research, Adobe Research, and Visa Research.
+During my doctoral studies 🎓, I worked as a research scientist intern at J.P. Morgan AI Research and Adobe Research, and a research collaborator with Visa Research.
 
 Previously, as an undergraduate at UCLA 🧑‍💻, I worked as a research scientist intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?user=5EQfAFIAAAAJ). I was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and [Dr. Jindong Wang](https://jd92.wang/), and lead research projects on Large Language Models, Explainable NLP, and Large Language Models. I also worked as a research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph neural networks and recommender systems under the mentorship of [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
 
