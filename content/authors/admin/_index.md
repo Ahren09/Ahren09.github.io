@@ -232,12 +232,12 @@ awards:
     url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
     date: '2021-06-10'
     awarder: Microsoft Research
-    icon: assets/media/icons/brands/logo_microsoft.svg
+    icon: assets/media/icons/brands/logo_microsoft
     summary: "Awarded for exceptional research contributions during internship at Microsoft Research Asia."
   - title: UCLA Dean's Honor List for Superior Academic Achievement (5 times)
     date: '2021-12-01'
     awarder: UCLA
-    icon: assets/media/icons/brands/logo_ucla.svg
+    icon: assets/media/icons/brands/logo_ucla
     summary: "Achieved Dean's Honor List recognition in Spring 2019, Winter 2020, Spring 2020, Winter 2021, and Spring 2021."
 ---
 
