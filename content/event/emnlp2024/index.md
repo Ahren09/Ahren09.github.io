@@ -12,8 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: 'The first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue.'
-abstract: 'Peer review is fundamental to the integrity and advancement of scientific publication. Traditional methods of peer review analyses often rely on exploration and statistics of existing peer review data, which do not adequately address the multivariate nature of the process, account for the latent variables, and are further constrained by privacy concerns due to the sensitive nature of the data. We introduce AgentReview, the first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue. Our study reveals significant insights, including a notable 37.1% variation in paper decisions due to reviewers biases, supported by sociological theories such as the social influence theory, altruism fatigue, and authority bias.'
+summary: "Peer review is fundamental to the integrity and advancement of scientific publication. Traditional methods of peer review analyses often rely on exploration and statistics of existing peer review data, which do not adequately address the multivariate nature of the process, account for the latent variables, and are further constrained by privacy concerns due to the sensitive nature of the data. We introduce AgentReview, the first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue. Our study reveals significant insights, including a notable 37.1% variation in paper decisions due to reviewers' biases, supported by sociological theories such as the social influence theory, altruism fatigue, and authority bias. We believe that this study could offer valuable insights to improve the design of peer review mechanisms. Our code is available at https://github.com/Ahren09/AgentReview."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -64,24 +63,4 @@ projects: []
 
 ## Abstract
 
-Peer review is fundamental to the integrity and advancement of scientific publication. Traditional methods of peer review analyses often rely on exploration and statistics of existing peer review data, which do not adequately address the multivariate nature of the process, account for the latent variables, and are further constrained by privacy concerns due to the sensitive nature of the data.
-
-We introduce **AgentReview**, the first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue. Our study reveals significant insights, including a notable **37.1% variation in paper decisions due to reviewers' biases**, supported by sociological theories such as the social influence theory, altruism fatigue, and authority bias.
-
-## Key Contributions
-
-1. **Novel Framework**: First LLM-based peer review simulation system that can model complex reviewer dynamics
-2. **Privacy Preservation**: Addresses privacy concerns inherent in traditional peer review data analysis
-3. **Sociological Insights**: Quantifies the impact of reviewer biases (37.1% variation) with theoretical grounding
-4. **Multivariate Analysis**: Effectively disentangles multiple latent factors affecting peer review outcomes
-
-## Research Impact
-
-This work provides unprecedented insights into the peer review process and offers a new methodology for understanding academic publishing dynamics while respecting privacy constraints.
-
-## Links
-
-- **Paper**: [ArXiv](https://arxiv.org/abs/2406.12708)
-- **Code**: [GitHub Repository](https://github.com/Ahren09/AgentReview)
-- **Website**: [Project Page](https://agentreview.github.io/)
-- **ACL Anthology**: [EMNLP 2024](https://aclanthology.org/2024.emnlp-main.70/)
+Peer review is fundamental to the integrity and advancement of scientific publication. Traditional methods of peer review analyses often rely on exploration and statistics of existing peer review data, which do not adequately address the multivariate nature of the process, account for the latent variables, and are further constrained by privacy concerns due to the sensitive nature of the data. We introduce AgentReview, the first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue. Our study reveals significant insights, including a notable 37.1% variation in paper decisions due to reviewers' biases, supported by sociological theories such as the social influence theory, altruism fatigue, and authority bias. We believe that this study could offer valuable insights to improve the design of peer review mechanisms. Our code is available at this https URL.
