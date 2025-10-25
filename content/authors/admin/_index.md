@@ -58,12 +58,14 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: Georgia Institute of Technology (Georgia Tech)
+    company_logo: logo_georgia_tech
     date_start: 2022-08-22
     date_end: 2026-12-04
     summary: |
       Research focus on Large Language Models, Multimodal Learning, and Social Computing
   - area: B.S in Computer Science
     institution: University of California, Los Angeles (UCLA)
+    company_logo: logo_ucla
     date_start: 2018-01-01
     date_end: 2021-12-01
     summary: |
@@ -73,6 +75,7 @@ work:
   - position: Graduate Research Assistant
     company_name: Georgia Institute of Technology
     company_url: 'https://www.gatech.edu/'
+    company_logo: logo_georgia_tech
     date_start: 2022-08-22
     date_end: ''
     summary: |2-
@@ -87,6 +90,7 @@ work:
   - position: Research Intern
     company_name: J.P. Morgan AI Research
     company_url: 'https://www.jpmorgan.com/technology/artificial-intelligence'
+    company_logo: logo_JPMorgan
     date_start: 2025-06-02
     date_end: 2025-08-15
     summary: |
@@ -94,6 +98,7 @@ work:
   - position: Research Collaborator
     company_name: Visa Research
     company_url: 'https://usa.visa.com/about-visa/visa-research.html'
+    company_logo: logo_visa
     date_start: 2024-09-15
     date_end: 2025-05-15
     summary: |
@@ -101,6 +106,7 @@ work:
   - position: Research Intern
     company_name: Adobe Inc.
     company_url: 'https://www.adobe.com/'
+    company_logo: logo_adobe
     date_start: 2024-05-06
     date_end: 2024-08-09
     summary: |
@@ -108,6 +114,7 @@ work:
   - position: Research Intern
     company_name: Microsoft Research Asia
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'
+    company_logo: logo_microsoft
     date_start: 2020-12-22
     date_end: 2022-07-22
     summary: |
@@ -126,6 +133,7 @@ work:
   - position: Undergraduate Research Assistant
     company_name: UCLA
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'
+    company_logo: logo_ucla
     date_start: 2021-06-25
     date_end: 2022-06-25
     summary: |
@@ -141,6 +149,7 @@ work:
   - position: Software Engineer Intern
     company_name: Amazon
     company_url: 'https://www.amazon.com/'
+    company_logo: logo_amazon
     date_start: 2020-06-15
     date_end: 2020-09-04
     summary: |
@@ -149,6 +158,18 @@ work:
       - Automated the deployment of the workflow across all AWS Realms (EU/FE/NA) through CloudFormation;
       - Establish DataCraft pipeline to enable automatic data ingestion from DynamoDB into the Andes dataset catalog, promoting broader internal adoption of these datasets for cross-functional teams and enhancing data accessibility;
       - Perform ablation analysis on the inventory reconciliation model, identifying key performance bottlenecks and optimizing model performance  
+
+  - position: Software Engineer Intern
+    company_name: IBM
+    company_url: 'https://www.ibm.com/'
+    company_logo: logo_ibm
+    date_start: 2019-06-17
+    date_end: 2019-09-03
+    summary: |
+      - Developed Compass DataRouter, a routing service for Compass project based on Golang and MongoDB, reducing memory usage and accelerating data retrieval;
+      - Enhanced the monitoring dashboard for Compass towards a more intuitive and responsive user interface with React.js.
+
+
 
 
       
