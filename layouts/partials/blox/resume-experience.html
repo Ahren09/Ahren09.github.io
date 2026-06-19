@@ -34,8 +34,9 @@
     <li class="mb-10 ms-6">
         {{ if .company_logo }}
         <span class="absolute flex items-center justify-center w-6 h-6 bg-white rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-white">
-              {{ $logo_path := printf "media/icons/brands/%s.svg" .company_logo }}
-              {{ $logo := resources.Get $logo_path }}
+              {{/* Try .svg first, then .png */}}
+              {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
+              {{ if not $logo }}{{ $logo = resources.Get (printf "media/icons/brands/%s.png" .company_logo) }}{{ end }}
               {{ if $logo }}
                 <img src="{{ $logo.RelPermalink }}" alt="{{ .company_name }} logo" class="w-5 h-5 object-contain" />
               {{ else }}
@@ -86,8 +87,9 @@
       <li class="mb-10 ms-6">
         {{ if .company_logo }}
         <span class="absolute flex items-center justify-center w-6 h-6 bg-white rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-white">
-              {{ $logo_path := printf "media/icons/brands/%s.svg" .company_logo }}
-              {{ $logo := resources.Get $logo_path }}
+              {{/* Try .svg first, then .png */}}
+              {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
+              {{ if not $logo }}{{ $logo = resources.Get (printf "media/icons/brands/%s.png" .company_logo) }}{{ end }}
               {{ if $logo }}
                 <img src="{{ $logo.RelPermalink }}" alt="{{ .institution }} logo" class="w-5 h-5 object-contain" />
               {{ else }}

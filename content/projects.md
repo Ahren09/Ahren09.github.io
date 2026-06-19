@@ -11,8 +11,9 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Research Projects
+      text: A selection of research projects spanning LLM agents and agent memory, self-distillation and efficient adaptation, multimodal LLMs, and structured multi-agent intelligence.
+      count: 0
       filters:
         folders:
           - project

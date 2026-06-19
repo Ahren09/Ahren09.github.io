@@ -23,11 +23,11 @@ publishDate: '2025-11-27T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['arxiv']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS2025 MAR Workshop"
-publication_short: "NeurIPS2025"
+publication: "Annual Meeting of the Association for Computational Linguistics (ACL) 2026, Main Conference"
+publication_short: "ACL'26"
 
 abstract: Multi-page visual documents such as manuals, brochures, presentations, and posters convey key information through layout, colors, icons, and cross-slide references. While large language models (LLMs) offer opportunities in document understanding, current systems struggle with complex, multi-page visual documents, particularly in fine-grained reasoning over elements and pages. We introduce SlideAgent, a versatile agentic framework for understanding multi-modal, multi-page, and multi-layout documents, especially slide decks. SlideAgent employs specialized agents and decomposes reasoning into three specialized levels--global, page, and element--to construct a structured, query-agnostic representation that captures both overarching themes and detailed visual or textual cues. During inference, SlideAgent selectively activates specialized agents for multi-level reasoning and integrates their outputs into coherent, context-aware answers. Extensive experiments show that SlideAgent achieves significant improvement over both proprietary (+7.9 over GPT-4o) and open-source models (+9.8 over InternVL3-8B). 
 
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2510.26615'
 url_code: ''
 url_dataset: ''
 url_poster: 'https://ahren09.github.io/uploads/SlideAgent_Poster.pdf'

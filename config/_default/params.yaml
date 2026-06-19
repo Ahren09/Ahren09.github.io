@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Yiqiao Jin (Ahren) is a Computer Science Ph.D. candidate at Georgia Tech, advised by Prof. Srijan Kumar. Research on LLM agents, agent memory, multimodal LLMs, self-distillation, and structured multi-agent intelligence.'
+    twitter: 'AhrenJin'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Yiqiao Jin. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
