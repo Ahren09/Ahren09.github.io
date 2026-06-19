@@ -1,0 +1,91 @@
+name: Update Google Scholar stats
+
+on:
+  schedule:
+    # Refresh once per day. The non-zero minute avoids GitHub Actions' busiest time.
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-scholar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Fetch Google Scholar stats
+        run: |
+          python3 - <<'PY'
+          import datetime
+          import json
+          import pathlib
+          import re
+          import sys
+          import time
+          import urllib.error
+          import urllib.request
+
+          path = pathlib.Path("data/scholar.json")
+          data = json.loads(path.read_text())
+          user = data["user_id"]
+
+          url = f"https://scholar.google.com/citations?user={user}&hl=en"
+          req = urllib.request.Request(url, headers={
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+              "Accept-Language": "en-US,en;q=0.9",
+          })
+          nums = None
+          last_error = None
+          for attempt, delay in enumerate((0, 15, 45), start=1):
+              if delay:
+                  time.sleep(delay)
+              try:
+                  html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore")
+                  values = re.findall(
+                      r'<td\b[^>]*class=["\']gsc_rsb_std["\'][^>]*>\s*([\d,]+)\s*</td>',
+                      html,
+                      flags=re.IGNORECASE,
+                  )
+                  if len(values) >= 5:
+                      nums = [int(value.replace(",", "")) for value in values]
+                      break
+                  last_error = "response contained no citation statistics"
+                  print(f"::warning::Google Scholar request {attempt}/3 returned no stats")
+              except (urllib.error.URLError, TimeoutError) as error:
+                  last_error = error
+                  print(f"::warning::Google Scholar request {attempt}/3 failed: {error}")
+
+          if nums is None:
+              print(f"::error::Could not fetch Google Scholar stats after 3 attempts: {last_error}")
+              sys.exit(1)
+
+          # The stats table lists: Citations(all), Citations(recent), h(all), h(recent), i10(all), i10(recent)
+          data["citations"] = nums[0]
+          data["h_index"]   = nums[2]
+          data["i10_index"] = nums[4]
+          data["updated"]   = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
+
+          path.write_text(json.dumps(data, indent=2) + "\n")
+          print(f"Updated: citations={data['citations']} h={data['h_index']} i10={data['i10_index']}")
+          PY
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/scholar.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/scholar.json
+            git commit -m "chore: update Google Scholar stats"
+            git push
+          else
+            echo "No change to Scholar stats."
+          fi

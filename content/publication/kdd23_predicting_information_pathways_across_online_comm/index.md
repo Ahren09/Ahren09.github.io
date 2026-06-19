@@ -8,6 +8,9 @@ authors:
   - admin
   - Yeon-Chang Lee
   - Kartik Sharma
+  - Meng Ye
+  - Karan Sikka
+  - Ajay Divakaran
   - Srijan Kumar
 
 # Author notes (optional)

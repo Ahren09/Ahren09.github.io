@@ -5,14 +5,15 @@ title: 'Prototypical Reward Network for Data-Efficient RLHF'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Jinghan Zhang
   - Xiting Wang
-  - Yaru Hao
-  - Xing Xie
+  - admin
+  - Changyu Chen
+  - Xinhao Zhang
+  - Kunpeng Liu
 
 # Author notes (optional)
-author_notes:
-  - 'Lead author'
+# author_notes:
 
 date: '2024-01-01T00:00:00Z'
 doi: ''

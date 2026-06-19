@@ -1,57 +1,70 @@
 [
-    { 
+    {
+        "date": "2026-05-18",
+        "text": "💼 Joined <a href='https://waymo.com/'>Waymo</a> as a Ph.D. Research Intern on the Perception team (VLM-based metric depth estimation for autonomous driving)."
+    },
+    {
+        "date": "2026-04-27",
+        "text": "🎉 Selected as an <a href='https://mlcommons.org/about-us/programs/'>MLCommons ML and Systems Rising Star (2026)</a>. See this <a href='https://mlcommons.org/2026/05/2026-rising-stars/'>announcement</a>."
+    },
+    {
+        "date": "2026-04-01",
+        "text": "📄 Two papers accepted at <b>ICLR 2026</b>: <a href='https://arxiv.org/abs/2506.15751'>Sysformer</a> and <a href='https://arxiv.org/abs/2509.24130'>Sharpness-Aware Prompt Evolving</a>."
+    },
+    {
+        "date": "2026-04-06",
+        "text": "📄 Three papers accepted at <b>ACL 2026 main</b>: <a href='https://arxiv.org/abs/2510.26615'>SlideAgent</a> (first-author), <a href='https://arxiv.org/abs/2507.05633'>SARA</a> (first-author), and <a href='https://arxiv.org/abs/2505.20201'>Reasoning Is Not All You Need</a>; one paper accepted at <b>ICWSM 2026</b> (<a href='https://arxiv.org/abs/2409.19492'>MedHalu</a>)."
+    },
+    {
         "date": "2025-09-15",
-         "text": "📄 <a href='https://arxiv.org/abs/2406.12708'>ProteinLLM Survey</a> paper accepted at EMNLP'25."
+        "text": "📄 <a href='https://arxiv.org/abs/2502.17504'>Protein LLM Survey</a> accepted at <b>EMNLP 2025</b>."
     },
-    { 
+    {
         "date": "2025-08-13",
-         "text": "📄 <a href='https://link.springer.com/article/10.1007/s43681-025-00797-3'>LLM Ethics Survey</a> paper published at <a href='https://link.springer.com/journal/43681'>AI and Ethics</a>."
+        "text": "📄 <a href='https://arxiv.org/abs/2406.05392'>LLM Ethics Survey</a> published at <a href='https://link.springer.com/journal/43681'>AI and Ethics</a>."
     },
-    { 
+    {
         "date": "2025-06-02",
-         "text": "💼 Joined <a href='https://www.jpmorganchase.com/about/technology/research/ai'>J.P. Morgan AI Research</a> as a Research Scientist Intern."
+        "text": "💼 Joined <a href='https://www.jpmorgan.com/technology/artificial-intelligence'>J.P. Morgan AI Research</a> as a Research Scientist Intern."
     },
-    { 
+    {
         "date": "2025-05-01",
-         "text": "💼 <a href='https://arxiv.org/abs/2503.21460'>LLM Agent Survey</a> accepted at ACL 2025."
+        "text": "📄 <a href='https://aclanthology.org/2025.acl-long.1493/'>Efficient LLM Training Survey</a> accepted at <b>ACL 2025</b>."
     },
-    { 
+    {
         "date": "2025-03-03",
-         "text": "🎉 SciEvo won the Best Paper Award at <a href='https://sites.google.com/servicenow.com/good-data-2025/program'>Good-Data @ AAAI'25 Workshop</a>."
+        "text": "🎉 SciEvo won the <b>Best Paper Award</b> at <a href='https://sites.google.com/servicenow.com/good-data-2025/program'>Good-Data @ AAAI 2025 Workshop</a>."
     },
-    { 
+    {
         "date": "2024-11-26",
-         "text": "🎉 Selected as 1 of the 8 finalists for Roblox Graduate Fellowship."
+        "text": "🎉 Selected as 1 of 8 finalists for the <b>Roblox Graduate Fellowship</b>."
     },
-    { 
+    {
         "date": "2024-09-20",
-         "text": "📄 <a href='https://arxiv.org/abs/2406.12708'>AgentReview</a> and <a href='https://arxiv.org/abs/2310.02469'>PrivacyMind</a> accepted to EMNLP'24 main track."
+        "text": "📄 <a href='https://arxiv.org/abs/2406.12708'>AgentReview</a> and <a href='https://arxiv.org/abs/2310.02469'>PrivacyMind</a> accepted to <b>EMNLP 2024 main track</b>."
     },
     {
         "date": "2024-07-15",
-        "text": "📄 1 paper <a href='https://arxiv.org/abs/2402.15988'>FairGAD</a> accepted at CIKM'24."
+        "text": "📄 <a href='https://arxiv.org/abs/2402.15988'>FairGAD</a> accepted at <b>CIKM 2024</b>."
     },
-
     {
         "date": "2024-05-15",
-        "text": "📄 2 papers <a href='https://arxiv.org/abs/2402.14154'>MM-Soc</a> and <a href='https://aclanthology.org/2024.acl-long.748/'>Proto-RM</a> accepted at ACL'24."
+        "text": "📄 Two papers accepted at <b>ACL 2024</b>: <a href='https://arxiv.org/abs/2402.14154'>MM-Soc</a> and <a href='https://aclanthology.org/2024.acl-long.748/'>Proto-RM</a>."
     },
-    { 
+    {
         "date": "2024-05-06",
-        "text": "💻 Joined Adobe Research as a Research Scientist Intern in San Jose, CA"
-
+        "text": "💼 Joined <a href='https://research.adobe.com/'>Adobe Research</a> as a Research Scientist Intern in San Jose, CA."
     },
     {
         "date": "2024-05-01",
-        "text": "📄 1 paper <a href='https://arxiv.org/abs/2310.17512'>CompeteAI</a> accepted at ICML'24 Oral."
+        "text": "📄 <a href='https://arxiv.org/abs/2310.17512'>CompeteAI</a> accepted at <b>ICML 2024 Oral</b>."
     },
     {
         "date": "2024-04-01",
-        "text": "📢 Our <a href='https://arxiv.org/abs/2310.13132'>WebConf2024 Project</a> on Cross-Lingual Evaluation of LLMs is featured at <a href='https://www.scientificamerican.com/article/chatbots-medical-questions-language/'>Scientific American</a> and <a href='https://theworld.org/media/2024-04-02/chatbots-making-mistakes-when-translating-medical-advice-some-languages'>The World</a>"
+        "text": "📢 <a href='https://arxiv.org/abs/2310.13132'>WebConf 2024 paper on Cross-Lingual Evaluation of LLMs</a> featured by <a href='https://www.scientificamerican.com/article/chatbots-medical-questions-language/'>Scientific American</a> and <a href='https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages'>The World</a>."
     },
-    
     {
         "date": "2024-01-23",
-        "text": "📄 1 paper <a href='https://arxiv.org/abs/2310.13132'>XLingEval</a> accepted at The Web Conference 2024"
+        "text": "📄 <a href='https://arxiv.org/abs/2310.13132'>XLingEval</a> accepted at <b>The Web Conference 2024 (Oral)</b>."
     }
 ]

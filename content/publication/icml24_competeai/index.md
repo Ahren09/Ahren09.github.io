@@ -1,5 +1,5 @@
 ---
-title: 'CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents'
+title: 'CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,11 +11,10 @@ authors:
   - admin
   - Kaijie Zhu
   - Hao Chen
-  - Jindong Wang
+  - Xing Xie
 
 # Author notes (optional)
-author_notes:
-  - 'Lead author'
+# author_notes:
 
 date: '2024-04-30T00:00:00Z'
 doi: ''
@@ -72,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["emnlp24_agentreview", "icml2024_competeai", "www24_xlingeval"]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -47,27 +47,56 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Communication Chair
-          company: Graduate Student Association, Georgia Tech School of Computer Science (SCSGSA)
+        - title: Ph.D. Research Intern
+          company: Waymo
+          company_url: 'https://waymo.com/'
+          location: Mountain View, CA
+          date_start: '2026-05-18'
+          date_end: '2026-08-07'
+          description: |2-
+            - Perception Team. Develop VLM-based metric depth estimation for autonomous driving, enabling point-level and object-centric distance prediction from camera/video inputs and scene metadata.
+            - Build data generation and evaluation pipelines for spatial reasoning (absolute depth, relative depth, temporal consistency) and analyze failure cases under challenging road conditions.
+
+        - title: Research Scientist Intern
+          company: J.P. Morgan AI Research
+          company_url: 'https://www.jpmorgan.com/technology/artificial-intelligence'
+          location: New York, NY
+          date_start: '2025-06-02'
+          date_end: '2025-08-15'
+          description: |2-
+            - Led SlideAgent (ACL 2026 main), a hierarchical agentic framework for multi-page visual document understanding.
+            - Built MLLM-based pipelines for parsing slide decks and financial reports; integrated context compression and retrieval-augmented generation.
+
+        - title: Research Collaborator (Visa Research Grant)
+          company: Visa Research
+          company_url: 'https://usa.visa.com/about-visa/visa-research.html'
+          location: Remote
+          date_start: '2024-08-01'
+          date_end: '2025-05-15'
+          description: |2-
+            - Led SARA (ACL 2026 main), a selective and adaptive RAG framework that combines fine-grained spans with compact semantic compression vectors under strict context budgets.
+
+        - title: Communications Chair
+          company: Georgia Tech School of CS Graduate Student Association (SCSGSA)
           company_url: 'https://scsgsa.cc.gatech.edu/'
           location: Atlanta, GA
           date_start: '2024-08-12'
           date_end: ''
           description: |2-
-            - Co-organize the College of Computing (CoC) Graduate Welcome Event with over 1,000 attendees, including new students, faculty, and alumni.
+            - Co-organize the College of Computing Graduate Welcome Event (1,000+ attendees).
             - Lead the design and maintenance of the SCSGSA website.
-            - Promote SCSGSA events, including workshops, networking sessions, and professional development programs.
+            - Promote SCSGSA events, including workshops and professional development programs.
 
-        - title: Research Intern
-          company: Adobe Inc.
-          company_url: 'https://www.adobe.com/'
+        - title: Research Scientist Intern
+          company: Adobe Research
+          company_url: 'https://research.adobe.com/'
           location: San Jose, CA
           date_start: '2024-05-06'
           date_end: '2024-08-09'
           description: |2-
-            Research Topics: Multimodal Large Language Models (MLLMs) Fine-tuning, Web UI and Video Tutorial Understanding.
+            - Built ScreenLLM (WebConf'25 MM4SG Workshop), a multimodal LLM for GUI understanding and action prediction.
+            - Designed a stateful screen schema summarizing dynamic UI sessions and a key-frame extractor for significant UI transitions.
 
-            
         - title: Graduate Research Assistant
           company: Georgia Institute of Technology
           company_url: 'https://www.gatech.edu/'
@@ -75,32 +104,25 @@ sections:
           date_start: '2022-08-22'
           date_end: ''
           description: |2-
-              Research Topics: Large Language Models (WebConf'24, ACL'24), LLM Safety (In preparation for NAACL'25), Multimodal Models (ACL'24), Recommender Systems and Dynamic Graph Mining (KDD'23), Social Network Analysis (CIKM'24, KDD'23), Fair Graph Mining (CIKM'24).
+              Research on LLM agents, agent memory, multimodal LLMs, self-distillation, and graph mining. Publications include ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, and CIKM'24. Advisor: Prof. Srijan Kumar.
 
-              Advisor: Dr. Srijan Kumar
-               
-        - title: Research Intern
-          company: Microsoft Research Asia
-          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'
+        - title: Research Scientist Intern
+          company: Microsoft Research Asia (Social Computing Group)
+          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'
           location: Beijing, China
           date_start: '2020-12-22'
           date_end: '2022-07-22'
           description: |2-
-            Research Topics: Large Language Models (EMNLP'24, ICML'24, ICML'23, AAAI'23), LLM Agents (EMNLP'24, ICML'24), Scientometric Analysis (In preparation for NAACL'25), Computational Social Science, Misinformation Detection (KDD'22, AAAI'22), Few-shot Learning (ACL'24, AAAI'23), Explainable AI (AAAI'22).
-
-            Advisors: Dr. Xiting Wang, Dr. Jindong Wang, and Dr. Xing Xie. 
-
+            Research on LLMs (ICML'24, ICML'23, AAAI'23), LLM agents (EMNLP'24, ICML'24), misinformation detection (KDD'22, AAAI'22), few-shot learning (ACL'24, AAAI'23), and explainable AI (AAAI'22). Mentors: Xiting Wang, Jindong Wang, Xing Xie.
 
         - title: Undergraduate Research Assistant
           company: UCLA Scalable Analytics Institute (ScAi)
-          company_url: 'https://ucla-dm.github.io/DM_website/'
+          company_url: 'https://scai.cs.ucla.edu/'
           location: Los Angeles, CA
           date_start: '2021-06-25'
           date_end: '2022-06-25'
-          description: |2- 
-            Research Topics: Large Language Models (EMNLP'24), Graph Neural Networks and Data Mining (WWW'23), LLM Fine-tuning (Under Review at KDD'25), Recommender Systems (WWW'23).
-            
-            Advisors: Dr. Yizhou Sun, Dr. Wei Wang
+          description: |2-
+            Graph neural networks, recommender systems, and protein/biology-focused LLMs (EMNLP'25, WebConf'23). Advisors: Prof. Yizhou Sun and Prof. Wei Wang.
             
 
         - title: Software Engineer Intern
@@ -144,6 +166,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      text: A curated set of recent and representative work. The [full publication list](./publication/) includes all venues.
+      count: 12
       filters:
         folders:
           - publication
@@ -155,10 +179,10 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        {{< displayPublications "displayPublications.html" >}}
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Browse all papers on the [Publications page](./publication/), or jump straight to [Google Scholar](https://scholar.google.com/citations?user=eY85qm4AAAAJ).
         {{% /callout %}}
+      count: 0
       filters:
         folders:
           - publication
@@ -192,7 +216,7 @@ sections:
       subtitle: Get in touch
       text: |-
         ## 📍 Location
-        Atlanta, GA / Beijing, China
+        Atlanta, GA (during the academic year) — currently in Mountain View, CA (Waymo internship, May–Aug 2026)
         
         ## 📧 Email
         yjin328[AT]gatech.edu
