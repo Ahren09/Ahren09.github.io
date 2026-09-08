@@ -28,7 +28,7 @@ organizations:
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on adaptive and efficient AI systems, with emphasis on LLM agents, agent memory, self-distillation, multimodal LLMs, and structured multi-agent intelligence.
+bio: My research sits at the intersection of multimodal foundation models, intelligent agents, and spatial/physical intelligence. I build general-purpose models that perceive, reason, learn, and act in interactive virtual and physical environments.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -53,12 +53,10 @@ profiles:
     url: uploads/resume.pdf
 
 interests:
-  - Large Language Models (LLMs)
-  - LLM Agents & Agent Memory
-  - Multi-Agent Systems (MAS)
-  - Self-Distillation & Efficient LLM Adaptation
-  - Multimodal LLMs & Visual Document Understanding
-  - Graph Neural Networks & Temporal Graphs
+  - Vision-Language & Multimodal Models (VLMs/MLLMs)
+  - World Models, Embodied AI & Spatial Reasoning
+  - LLM Agents & Multi-Agent Systems
+  - Post-training, Reinforcement Learning & Self-Improvement
 
 education:
   - area: Ph.D. in Computer Science
@@ -67,16 +65,30 @@ education:
     date_start: 2022-08-22
     date_end: ''
     summary: |
-      Advised by Prof. Srijan Kumar. Research focus on LLM agents, agent memory, multimodal LLMs, and efficient LLM adaptation. GPA: 4.0/4.0.
+      - Advisor: Prof. Srijan Kumar.
+      - Research on multimodal foundation models, world models and spatial reasoning, LLM agents and multi-agent systems, and post-training and self-improvement.
+      - Publications include EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, CIKM'24, AAAI'23.
+      - GPA: 4.0/4.0.
   - area: B.S. in Computer Science
     institution: University of California, Los Angeles (UCLA)
     company_logo: logo_ucla
     date_start: 2018-09-01
     date_end: 2021-12-01
     summary: |
-      GPA: 3.82/4.0. Published 4 papers (3 first-authored) at top-tier ML and data mining venues (AAAI, KDD, Web Conference). Dean's Honor List (5 times).
+      - Advisors: Prof. Yizhou Sun, Prof. Wei Wang. 
+      - Published 4 papers at top-tier ML and data mining venues (AAAI, KDD, Web Conference). Continuing collaborator on LLMs and graph neural networks (GNNs) (EMNLP'25, WebConf'23).
+      - GPA: 3.82/4.0. Dean's Honor List (5 times).
 
 work:
+  - position: Applied Scientist Intern
+    company_name: Amazon
+    company_url: 'https://www.amazon.science/'
+    company_logo: logo_amazon
+    date_start: 2026-08-01
+    date_end: 2026-11-30
+    summary: |
+      - Develop a unified agentic framework based on diffusion language models (dLMs) for task completion and world modeling.
+      - Mentor: Anwesan Pal. Manager: Narayanan Sadagopan.
   - position: Ph.D. Research Intern
     company_name: Waymo
     company_url: 'https://waymo.com/'
@@ -84,17 +96,9 @@ work:
     date_start: 2026-05-01
     date_end: 2026-08-31
     summary: |
-      - Perception Team. Develop VLM-based metric depth estimation models for autonomous driving, enabling point-level and object-centric distance prediction from camera/video inputs and scene metadata.
-      - Build data generation and evaluation pipelines for spatial reasoning tasks (absolute depth prediction, relative depth comparison, temporal depth consistency).
-      - Mentors: Mayank Singal, Prasanna Krishnasamy. Manager: Ming Zou.
-  - position: Graduate Research Assistant
-    company_name: Georgia Institute of Technology
-    company_url: 'https://www.gatech.edu/'
-    company_logo: logo_georgia_tech
-    date_start: 2022-08-22
-    date_end: ''
-    summary: |
-      Advisor: Prof. Srijan Kumar. Research on LLM agents, agent memory, multimodal LLMs, self-distillation, and graph mining. Publications include ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, CIKM'24.
+      - Perception Team. Developed a unified VLM for autonomous driving perception (patent application pending) that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera observations and sparse LiDAR.
+      - Built core perceptual capabilities for vision-language-action (VLA) systems — dense depth, object-centric distance, driving relevance, depth ordering, and time-to-reach reasoning — through a shared geometry-language scene representation.
+      - Mentors: Mayank Singal, Prasanna Krishnasamy. Managers: Ming Zou, Christian Lauterbach.
   - position: Research Scientist Intern
     company_name: J.P. Morgan AI Research
     company_url: 'https://www.jpmorgan.com/technology/artificial-intelligence'
@@ -135,15 +139,6 @@ work:
       - Mentors: Xiting Wang, Jindong Wang, Xing Xie.
       - Published papers across LLMs (ICML'24, ICML'23, AAAI'23), LLM agents (EMNLP'24, ICML'24), misinformation detection (KDD'22, AAAI'22), few-shot learning (ACL'24, AAAI'23), and explainable AI (AAAI'22).
       - Received Microsoft Research "Star of Tomorrow" Award (2021).
-  - position: Undergraduate Research Assistant
-    company_name: UCLA Scalable Analytics Institute (ScAi)
-    company_url: 'https://scai.cs.ucla.edu/'
-    company_logo: logo_ucla
-    date_start: 2021-06-25
-    date_end: 2022-06-25
-    summary: |
-      - Advisors: Prof. Yizhou Sun, Prof. Wei Wang.
-      - Continuing collaborator on graph neural networks, code recommendation, and protein/biology-focused LLMs (EMNLP'25, WebConf'23).
   - position: Software Engineer Intern
     company_name: Amazon (Fulfillment By Amazon)
     company_url: 'https://www.amazon.com/'
@@ -168,30 +163,22 @@ work:
 skills:
   - name: Research Areas
     items:
-      - name: Large Language Models (LLMs)
+      - name: Vision-Language & Multimodal Models
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: eye
+      - name: World Models, Embodied AI & Spatial Reasoning
+        description: ''
+        percent: 90
+        icon: cube
       - name: LLM Agents & Multi-Agent Systems
         description: ''
         percent: 95
-        icon: chart-bar
-      - name: Multimodal LLMs
-        description: ''
-        percent: 95
-        icon: chart-bar
-      - name: Agent Memory & Continual Adaptation
+        icon: users
+      - name: Post-training, RL & Self-Improvement
         description: ''
         percent: 90
-        icon: circle-stack
-      - name: Self-Distillation & Efficient AI
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Graph Neural Networks
-        description: ''
-        percent: 85
-        icon: circle-stack
+        icon: arrow-path
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -260,9 +247,9 @@ awards:
 
 Hello👋! I am Yiqiao Jin (靳轶乔, Ahren), a Computer Science Ph.D. candidate at Georgia Tech, advised by Prof. [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/).
 
-My research develops **adaptive and efficient AI systems**, with a focus on **LLM agents**, **agent memory**, **self-distillation**, **multimodal LLMs**, and **structured multi-agent intelligence**. My work has appeared at ACL, EMNLP, ICML, NeurIPS, ICLR, KDD, AAAI, CIKM, and The Web Conference, including several oral presentations.
+My research sits at the intersection of **multimodal foundation models**, **intelligent agents**, and **spatial/physical intelligence**: building general-purpose models that can **perceive, reason, learn, and act** in interactive virtual and physical environments. I work across four threads — **vision-language and multimodal models (VLMs/MLLMs)**; **world models, embodied AI, and spatial reasoning**; **LLM agents and multi-agent systems**; and **post-training, reinforcement learning, and self-improvement**. My work has appeared at ACL, EMNLP, ICML, NeurIPS, ICLR, KDD, AAAI, CIKM, and The Web Conference, including several oral presentations.
 
-I am currently a Ph.D. Intern on the Perception team at **Waymo**, working on VLM-based metric depth estimation and spatial reasoning for autonomous driving. During my Ph.D., I have also interned or collaborated with **J.P. Morgan AI Research** (SlideAgent), **Visa Research** (SARA), **Adobe Research** (ScreenLLM), and **Microsoft Research Asia** (FinerFact, Prototypical Fine-tuning, CompeteAI, AgentReview). Before Georgia Tech, I worked with Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) at the UCLA Scalable Analytics Institute (ScAi).
+Most recently at **Waymo** (Perception team), I developed a unified VLM for autonomous driving that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera and sparse LiDAR (patent application pending), providing core perceptual capabilities for vision-language-action (VLA) systems. I am currently an Applied Scientist Intern at **Amazon**, building a unified agentic framework based on diffusion language models (dLMs) for task completion and world modeling. Earlier, I built agentic and multimodal systems at **J.P. Morgan AI Research** (SlideAgent, ACL'26), **Visa Research** (SARA, ACL'26), **Adobe Research**, and **Microsoft Research Asia**; before Georgia Tech, I worked with Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) at the UCLA Scalable Analytics Institute (ScAi).
 
 Selected honors include the [**MLCommons ML and Systems Rising Stars (2026)**](https://mlcommons.org/2026/05/2026-rising-stars/), [**Best Paper Award at Good-Data @ AAAI 2025 Workshop**](https://sites.google.com/servicenow.com/good-data-2025/program?authuser=0), **Roblox Graduate Fellowship Finalist (2024)**, and the **Microsoft Research "Star of Tomorrow" Award**. My work on cross-lingual LLM evaluation has been featured by [Scientific American](https://www.scientificamerican.com/article/chatbots-medical-questions-language/), [The World](https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages), and [Georgia Tech News](https://www.gatech.edu/news/2024/05/15/chatbots-are-poor-multilingual-healthcare-consultants-study-finds).
 

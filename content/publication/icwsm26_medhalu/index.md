@@ -30,7 +30,7 @@ tags:
   - Hallucination
   - LLM Safety
 
-featured: true
+featured: false
 
 url_pdf: 'https://arxiv.org/abs/2409.19492'
 

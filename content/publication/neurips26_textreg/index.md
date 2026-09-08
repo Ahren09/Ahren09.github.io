@@ -30,7 +30,7 @@ tags:
   - Regularization
   - Large Language Models
 
-featured: false
+featured: true
 
 url_pdf: 'https://arxiv.org/abs/2605.21318'
 

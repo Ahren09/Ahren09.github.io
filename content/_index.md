@@ -47,6 +47,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Applied Scientist Intern
+          company: Amazon
+          company_url: 'https://www.amazon.science/'
+          location: Santa Clara, CA
+          date_start: '2026-08-01'
+          date_end: '2026-11-30'
+          description: |2-
+            - Develop a unified agentic framework based on diffusion language models (dLMs) for task completion and world modeling.
+
         - title: Ph.D. Research Intern
           company: Waymo
           company_url: 'https://waymo.com/'
@@ -54,8 +63,8 @@ sections:
           date_start: '2026-05-18'
           date_end: '2026-08-07'
           description: |2-
-            - Perception Team. Develop VLM-based metric depth estimation for autonomous driving, enabling point-level and object-centric distance prediction from camera/video inputs and scene metadata.
-            - Build data generation and evaluation pipelines for spatial reasoning (absolute depth, relative depth, temporal consistency) and analyze failure cases under challenging road conditions.
+            - Perception Team. Developed a unified VLM for autonomous driving perception (patent application pending) that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera observations and sparse LiDAR.
+            - Built core perceptual capabilities for vision-language-action (VLA) systems — dense depth, object-centric distance, driving relevance, depth ordering, and time-to-reach reasoning — through a shared geometry-language scene representation.
 
         - title: Research Scientist Intern
           company: J.P. Morgan AI Research
@@ -104,7 +113,7 @@ sections:
           date_start: '2022-08-22'
           date_end: ''
           description: |2-
-              Research on LLM agents, agent memory, multimodal LLMs, self-distillation, and graph mining. Publications include ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, and CIKM'24. Advisor: Prof. Srijan Kumar.
+              Research on multimodal foundation models, LLM agents, agent memory, and post-training/self-distillation. Publications include EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, EMNLP'24, ACL'24, CIKM'24, KDD'23, AAAI'23. Advisor: Prof. Srijan Kumar.
 
         - title: Research Scientist Intern
           company: Microsoft Research Asia (Social Computing Group)
@@ -166,8 +175,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      text: A curated set of recent and representative work. The [full publication list](./publication/) includes all venues.
-      count: 12
+      text: Representative work across vision-language and multimodal models, world models and spatial reasoning, LLM agents, and post-training. The [full publication list](./publication/) includes all venues.
+      count: 20
       filters:
         folders:
           - publication
@@ -216,7 +225,7 @@ sections:
       subtitle: Get in touch
       text: |-
         ## 📍 Location
-        Atlanta, GA (during the academic year) — currently in Mountain View, CA (Waymo internship, May–Aug 2026)
+        Atlanta, GA (during the academic year) — currently in Santa Clara, CA (Amazon internship, Aug–Nov 2026)
         
         ## 📧 Email
         yjin328[AT]gatech.edu

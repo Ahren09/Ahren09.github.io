@@ -30,7 +30,7 @@ tags:
   - Open Source Software
   - Code Recommendation
 
-featured: true
+featured: false
 
 url_pdf: 'https://arxiv.org/abs/2210.08332'
 

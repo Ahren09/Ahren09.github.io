@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Research Projects
-      text: A selection of research projects spanning LLM agents and agent memory, self-distillation and efficient adaptation, multimodal LLMs, and structured multi-agent intelligence.
+      text: A selection of research projects across multimodal foundation models, world models and embodied AI, LLM agents and multi-agent systems, and post-training and self-improvement.
       count: 0
       filters:
         folders:

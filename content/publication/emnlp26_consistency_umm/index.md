@@ -40,7 +40,7 @@ tags:
   - Consistency
   - Evaluation
 
-featured: false
+featured: true
 
 url_pdf: 'https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models'
 

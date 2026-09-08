@@ -33,7 +33,7 @@ tags:
   - Multimodal Large Language Models
   - Enterprise AI
 
-featured: false
+featured: true
 
 url_pdf: ''
 

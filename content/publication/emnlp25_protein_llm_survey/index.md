@@ -38,7 +38,7 @@ tags:
   - Survey
   - LLM for Science
 
-featured: true
+featured: false
 
 url_pdf: 'https://arxiv.org/abs/2502.17504'
 

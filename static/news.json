@@ -1,5 +1,17 @@
 [
     {
+        "date": "2026-09-08",
+        "text": "🎯 I am on the <b>2027 industry job market</b> for Research Scientist / Applied Scientist / Research Engineer roles! Catch me at <b>COLM 2026</b> (Oct 6-9, San Francisco) and the <b>NeurIPS 2026 Satellite Event</b> (Dec 9-13, Atlanta), or reach out at <a href='mailto:yjin328@gatech.edu'>yjin328@gatech.edu</a>."
+    },
+    {
+        "date": "2026-09-05",
+        "text": "📄 <a href='https://arxiv.org/abs/2601.14230'>MASCOT</a> accepted at <b>EMNLP 2026 main conference</b>; <a href='https://arxiv.org/abs/2501.01282'>CultureVLM</a> accepted at <b>EMNLP 2026 Findings</b>."
+    },
+    {
+        "date": "2026-08-01",
+        "text": "💼 Joined <a href='https://www.amazon.science/'>Amazon</a> as an Applied Scientist Intern, working on diffusion language model (dLM)-based agents."
+    },
+    {
         "date": "2026-05-18",
         "text": "💼 Joined <a href='https://waymo.com/'>Waymo</a> as a Ph.D. Research Intern on the Perception team (VLM-based metric depth estimation for autonomous driving)."
     },
@@ -13,7 +25,7 @@
     },
     {
         "date": "2026-04-06",
-        "text": "📄 Three papers accepted at <b>ACL 2026 main</b>: <a href='https://arxiv.org/abs/2510.26615'>SlideAgent</a> (first-author), <a href='https://arxiv.org/abs/2507.05633'>SARA</a> (first-author), and <a href='https://arxiv.org/abs/2505.20201'>Reasoning Is Not All You Need</a>; one paper accepted at <b>ICWSM 2026</b> (<a href='https://arxiv.org/abs/2409.19492'>MedHalu</a>)."
+        "text": "📄 Three papers accepted at <b>ACL 2026 main</b>: <a href='https://arxiv.org/abs/2510.26615'>SlideAgent</a>, <a href='https://arxiv.org/abs/2507.05633'>SARA</a>, and <a href='https://arxiv.org/abs/2505.20201'>Reasoning Is Not All You Need</a>; one paper accepted at <b>ICWSM 2026</b> (<a href='https://arxiv.org/abs/2409.19492'>MedHalu</a>)."
     },
     {
         "date": "2025-09-15",

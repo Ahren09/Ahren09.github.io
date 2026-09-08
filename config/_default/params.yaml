@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yiqiao Jin (Ahren) is a Computer Science Ph.D. candidate at Georgia Tech, advised by Prof. Srijan Kumar. Research on LLM agents, agent memory, multimodal LLMs, self-distillation, and structured multi-agent intelligence.'
+    description: 'Yiqiao Jin (Ahren), CS Ph.D. candidate at Georgia Tech. Research on vision-language and multimodal models, world models and embodied AI, LLM agents, and post-training and reinforcement learning.'
     twitter: 'AhrenJin'
   analytics:
     google_analytics: ''
