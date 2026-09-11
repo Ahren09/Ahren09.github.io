@@ -27,10 +27,10 @@ date: '2026-02-04T00:00:00Z'
 doi: ''
 publishDate: '2026-02-04T00:00:00Z'
 
-publication_types: ['preprint']
+publication_types: ['conference']
 
-publication: "Under Review at NeurIPS 2026 (Preprint)"
-publication_short: "Preprint"
+publication: "NeurIPS 2026"
+publication_short: "neurips26"
 
 abstract: "Multi-agent systems achieve strong performance on complex tasks by orchestrating diverse roles, planners, and tool-using agents. However, deploying full multi-agent stacks is expensive and brittle. We introduce AgentArk, a distillation framework that compresses multi-agent intelligence into a single LLM agent. AgentArk decomposes multi-agent trajectories into role-conditioned skills and trains a single agent to reproduce the collaborative behavior of the original ensemble, recovering most of the performance at a fraction of the cost."
 
