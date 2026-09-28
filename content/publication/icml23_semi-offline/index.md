@@ -52,7 +52,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2306.09712'
+url_pdf: https://proceedings.mlr.press/v202/chen23ad.html
+
 url_code: 'https://github.com/ChangyuChen347/semi-offline-RL'
 url_dataset: ''
 url_poster: ''
@@ -64,7 +65,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'
@@ -93,5 +94,4 @@ Existing reinforcement learning (RL) mainly utilize online or offline settings. 
 Reinforcement Learning, Text Generation, Language Models, Offline RL
 
 ## Links
-
 

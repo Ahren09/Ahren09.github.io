@@ -1,0 +1,72 @@
+---
+title: 'A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications'
+
+authors:
+- Ye Yuan
+- Junyu Luo
+- Guancheng Wan
+- Jinsheng Huang
+- Chengwu Liu
+- Junwei Yang
+- Yifang Qin
+- Zhiping Xiao
+- Qingqing Long
+- Meng Xiao
+- admin
+- Jianhong Tu
+- Yuqi Chen
+- Wei Ju
+- Zhongwei Wan
+- Yusheng Zhao
+- Xiao Luo
+- Yiwei Fu
+- Yizhou Sun
+- Wei Wang
+- Chenguang Wang
+- Ming Zhang
+
+date: '2025-05-01T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
+publication_types: ['preprint']
+publication: Preprint; under review at ACL ARR
+
+publication_short: Preprint
+
+summary: A survey of multimodal foundation model evaluation from a hierarchical perspective, covering a broad range of applications.
+tags:
+  - Multimodal Foundation Models
+  - Evaluation
+  - Survey
+featured: false
+url_source: 'https://scholar.google.com/citations?view_op=view_citation&user=eY85qm4AAAAJ&citation_for_view=eY85qm4AAAAJ:dshw04ExmUIC'
+
+author_notes:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+
+url_pdf: https://jianhongtu.github.io/assets/pdf/EMNLP25_MMEval_Survey.pdf
+---
+
+A survey of multimodal foundation model evaluation from a hierarchical perspective, covering a broad range of applications.
+
+[View the Google Scholar record](https://scholar.google.com/citations?view_op=view_citation&user=eY85qm4AAAAJ&citation_for_view=eY85qm4AAAAJ:dshw04ExmUIC).

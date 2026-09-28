@@ -22,17 +22,18 @@ author_notes:
   - ''
 
 date: '2026-02-03T00:00:00Z'
-doi: ''
+doi: 10.36227/techrxiv.177129961.14848580/v1
+
 publishDate: '2026-02-03T00:00:00Z'
 
 publication_types: ['preprint']
 
-publication: "Under Review at EMNLP 2026"
+publication: "TechRxiv preprint"
 publication_short: "Preprint"
 
-abstract: "Unified multimodal models (UMMs) aim to handle understanding and generation across modalities within a single architecture. Despite rapid progress, current UMMs frequently produce inconsistent outputs across views, modalities, and prompts. In this position paper, we argue that consistency, not capability, should be the priority research target for UMMs. We characterize three forms of consistency (cross-view, cross-modal, and cross-prompt), survey current evaluation gaps, and outline a roadmap for consistency-driven UMM research."
+abstract: 'This position paper makes consistency a central objective for unified multimodal models. It outlines five connected research directions: grounding that accounts for differences in modality reliability, representations that coordinate understanding and generation, consistent multi-step reasoning, post-training for competing objectives, and evaluation of consistency across tasks.'
 
-summary: A position paper arguing that consistency across views, modalities, and prompts should be the priority research target for unified multimodal models.
+summary: A position paper on consistency across multimodal grounding, representations, reasoning, post-training, and evaluation.
 
 tags:
   - Multimodal Models
@@ -42,7 +43,7 @@ tags:
 
 featured: true
 
-url_pdf: 'https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models'
+url_pdf: https://doi.org/10.36227/techrxiv.177129961.14848580/v1
 
 image:
   caption: ''
@@ -53,10 +54,10 @@ projects: []
 slides: ""
 ---
 
-## Abstract
+## Overview
 
-Unified multimodal models (UMMs) aim to handle understanding and generation across modalities within a single architecture. Despite rapid progress, current UMMs frequently produce inconsistent outputs across views, modalities, and prompts. In this position paper, we argue that consistency, not capability, should be the priority research target for UMMs.
+This position paper makes consistency a central objective for unified multimodal models. It outlines five connected research directions: grounding that accounts for differences in modality reliability, representations that coordinate understanding and generation, consistent multi-step reasoning, post-training for competing objectives, and evaluation of consistency across tasks.
 
 ## Links
 
-- [TechRxiv](https://www.techrxiv.org/users/1026825/articles/1386613-consistency-should-be-the-priority-for-unified-multimodal-models)
+- [TechRxiv](https://doi.org/10.36227/techrxiv.177129961.14848580/v1)

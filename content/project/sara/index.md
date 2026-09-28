@@ -1,6 +1,6 @@
 ---
 title: SARA
-summary: Selective and Adaptive Retrieval-augmented Generation with Context Compression. A unified RAG framework that combines fine-grained natural-language spans with compact semantic compression vectors under strict context budgets. Accepted at ACL 2026 main conference.
+summary: Selective and Adaptive Retrieval-augmented Generation with Context Compression. A unified RAG framework that combines fine-grained natural-language spans with compact semantic compression vectors under strict context budgets. ACL 2026 Main Conference, Oral Presentation.
 tags:
   - Retrieval-Augmented Generation
   - Large Language Models

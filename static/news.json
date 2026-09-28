@@ -1,19 +1,35 @@
 [
     {
+        "date": "2026-11-04",
+        "text": "📄 Research update: <a href='/publication/neurips26_agentark/'>AgentArk</a> is accepted at <b>NeurIPS 2026</b>. Our position paper <a href='/publication/neurips26_unified_multimodal_roadmap/'>Beyond Structural Unification</a> is accepted at the <b>NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models</b>."
+    },
+    {
+        "date": "2026-11-04",
+        "text": "📄 <a href='/publication/neurips26_unisd/'>UniSD</a> is accepted at the <b>COLM 2026 LLA Workshop</b>, and <a href='/publication/iclr27_textreg/'>TextReg</a> at the <b>COLM 2026 Efficient Reasoning Workshop</b>. <a href='/publication/acl26_sara/'>SARA</a> received an <b>Oral Presentation at ACL 2026 Main</b>."
+    },
+    {
+        "date": "2026-10-31",
+        "text": "📄 New preprints: <a href='/publication/preprint26_science_utopia/'>Science Utopia</a>, <a href='/publication/preprint26_timersi/'>TimeRSI</a>, <a href='/publication/preprint26_sourcelearn/'>SourceLearn</a>, and <a href='/publication/preprint26_self_step_rejection/'>Self-Step Rejection</a>."
+    },
+    {
+        "date": "2026-10-31",
+        "text": "🎓 Served as an <b>Area Chair for ACL Rolling Review (ARR), October 2026</b>."
+    },
+    {
         "date": "2026-09-08",
-        "text": "🎯 I am on the <b>2027 industry job market</b> for Research Scientist / Applied Scientist / Research Engineer roles! Catch me at <b>COLM 2026</b> (Oct 6-9, San Francisco) and the <b>NeurIPS 2026 Satellite Event</b> (Dec 9-13, Atlanta), or reach out at <a href='mailto:yjin328@gatech.edu'>yjin328@gatech.edu</a>."
+        "text": "🎯 I am on the <b>2027 industry job market</b> for Research Scientist / Applied Scientist / Research Engineer roles. Reach out at <a href='mailto:yjin328@gatech.edu'>yjin328@gatech.edu</a>."
     },
     {
         "date": "2026-09-05",
-        "text": "📄 <a href='https://arxiv.org/abs/2601.14230'>MASCOT</a> accepted at <b>EMNLP 2026 main conference</b>; <a href='https://arxiv.org/abs/2501.01282'>CultureVLM</a> accepted at <b>EMNLP 2026 Findings</b>."
+        "text": "📄 <a href='https://arxiv.org/abs/2601.14230'>MASCOT</a> accepted at <b>EMNLP 2026 main conference</b>; <a href='https://arxiv.org/abs/2501.01282'>CultureVLM</a> accepted at <b>EMNLP 2026</b>."
     },
     {
         "date": "2026-08-01",
-        "text": "💼 Joined <a href='https://www.amazon.science/'>Amazon</a> as an Applied Scientist Intern, working on diffusion language model (dLM)-based agents."
+        "text": "💼 Joined <a href='https://www.amazon.science/'>Amazon</a> as an Applied Scientist Intern, developing joint policy and world model networks for long-trajectory agentic tasks."
     },
     {
         "date": "2026-05-18",
-        "text": "💼 Joined <a href='https://waymo.com/'>Waymo</a> as a Ph.D. Research Intern on the Perception team (VLM-based metric depth estimation for autonomous driving)."
+        "text": "💼 Joined <a href='https://waymo.com/'>Waymo</a> as a Ph.D. Intern on the Perception team (VLM-based metric depth estimation for autonomous driving)."
     },
     {
         "date": "2026-04-27",

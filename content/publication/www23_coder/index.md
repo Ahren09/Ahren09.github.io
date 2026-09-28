@@ -1,5 +1,5 @@
 ---
-title: 'Code Recommendation for Open Source Project Developers'
+title: 'Code Recommendation for Open Source Software Developers'
 
 authors:
   - admin
@@ -17,8 +17,9 @@ publishDate: '2023-04-30T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: "The Web Conference (WWW) 2023, Oral Presentation"
-publication_short: "WWW'23"
+publication: The Web Conference 2023, Oral Presentation
+
+publication_short: WebConf'23 · Oral
 
 abstract: "Open Source Software (OSS) developers contribute to a large and rapidly growing ecosystem, but matching developers to relevant code is challenging. We introduce CODER, a graph-based code recommendation framework that leverages multi-modal signals from OSS contribution and engagement networks. CODER models heterogeneous graphs over repositories, users, issues, and pull requests, and learns representations that improve code recommendation across realistic OSS workloads. WWW 2023 acceptance rate: 19.2%."
 

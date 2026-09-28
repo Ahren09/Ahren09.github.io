@@ -1,5 +1,5 @@
 ---
-title: 'A Survey on Efficient LLM Training: From Data-centric Perspectives'
+title: 'A Survey on Efficient Large Language Model Training: From Data-centric Perspectives'
 
 authors:
   - Junyu Luo

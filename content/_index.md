@@ -54,17 +54,17 @@ sections:
           date_start: '2026-08-01'
           date_end: '2026-11-30'
           description: |2-
-            - Develop a unified agentic framework based on diffusion language models (dLMs) for task completion and world modeling.
+            - Develop joint policy and world model networks for long-trajectory agentic tasks.
 
-        - title: Ph.D. Research Intern
+        - title: Ph.D. Intern
           company: Waymo
           company_url: 'https://waymo.com/'
           location: Mountain View, CA
           date_start: '2026-05-18'
           date_end: '2026-08-07'
           description: |2-
-            - Perception Team. Developed a unified VLM for autonomous driving perception (patent application pending) that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera observations and sparse LiDAR.
-            - Built core perceptual capabilities for vision-language-action (VLA) systems — dense depth, object-centric distance, driving relevance, depth ordering, and time-to-reach reasoning — through a shared geometry-language scene representation.
+            - Developed a unified VLM for embodied AI perception across diverse weather, geographic regions, and lighting conditions (patent pending).
+            - Built perceptual capabilities for vision-language-action (VLA) systems, including dense depth, object distance, driving relevance, depth ordering, and time-to-reach reasoning, through a shared geometry-language representation.
 
         - title: Research Scientist Intern
           company: J.P. Morgan AI Research
@@ -73,8 +73,8 @@ sections:
           date_start: '2025-06-02'
           date_end: '2025-08-15'
           description: |2-
-            - Led SlideAgent (ACL 2026 main), a hierarchical agentic framework for multi-page visual document understanding.
-            - Built MLLM-based pipelines for parsing slide decks and financial reports; integrated context compression and retrieval-augmented generation.
+            - Led SlideAgent (ACL 2026 Main; patent pending), a hierarchical agentic framework for multi-page visual document understanding.
+            - Built multimodal pipelines for slide decks and financial reports, including MM-BizRAG (ACL 2026 Industry Track), integrating context compression and retrieval-augmented generation.
 
         - title: Research Collaborator (Visa Research Grant)
           company: Visa Research
@@ -83,7 +83,7 @@ sections:
           date_start: '2024-08-01'
           date_end: '2025-05-15'
           description: |2-
-            - Led SARA (ACL 2026 main), a selective and adaptive RAG framework that combines fine-grained spans with compact semantic compression vectors under strict context budgets.
+            - Led SARA (ACL 2026 Main, Oral), a selective and adaptive RAG framework that combines fine-grained spans with compact semantic compression vectors under strict context budgets.
 
         - title: Communications Chair
           company: Georgia Tech School of CS Graduate Student Association (SCSGSA)
@@ -103,7 +103,7 @@ sections:
           date_start: '2024-05-06'
           date_end: '2024-08-09'
           description: |2-
-            - Built ScreenLLM (WebConf'25 MM4SG Workshop), a multimodal LLM for GUI understanding and action prediction.
+            - Built ScreenLLM (WebConf'25 Companion), a multimodal LLM for GUI understanding and action prediction.
             - Designed a stateful screen schema summarizing dynamic UI sessions and a key-frame extractor for significant UI transitions.
 
         - title: Graduate Research Assistant
@@ -113,7 +113,7 @@ sections:
           date_start: '2022-08-22'
           date_end: ''
           description: |2-
-              Research on multimodal foundation models, LLM agents, agent memory, and post-training/self-distillation. Publications include EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, EMNLP'24, ACL'24, CIKM'24, KDD'23, AAAI'23. Advisor: Prof. Srijan Kumar.
+              Research on multimodal foundation models, LLM agents, agent memory, and post-training/self-distillation. Publications include NeurIPS'26, EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, EMNLP'24, ACL'24, CIKM'24, KDD'23, AAAI'23. Advisor: Prof. Srijan Kumar.
 
         - title: Research Scientist Intern
           company: Microsoft Research Asia (Social Computing Group)

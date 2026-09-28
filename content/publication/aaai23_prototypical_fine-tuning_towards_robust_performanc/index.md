@@ -1,5 +1,5 @@
 ---
-title: 'Prototypical Fine-Tuning: Towards Robust Performance under Varying Data Sizes'
+title: 'Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +27,9 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI Conference on Artificial Intelligence 2023"
-publication_short: "AAAI'23"
+publication: AAAI 2023, Oral Presentation
+
+publication_short: AAAI'23 · Oral
 
 abstract: In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the number of data points and the model's inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the optimal solution. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios.
 

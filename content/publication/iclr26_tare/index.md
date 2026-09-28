@@ -1,24 +1,35 @@
 ---
-title: 'Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models'
+title: 'Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE'
 
 authors:
-  - Guancheng Wan
-  - Lucheng Fu
-  - Haoxin Liu
-  - admin
-  - Hejia Geng
-  - Eric Hanchen Jiang
-  - Hui Yi Leong
-  - Jinhe Bi
-  - Yunpu Ma
-  - Xiangru Tang
-  - B. Aditya Prakash
-  - Yizhou Sun
-  - Wei Wang
+- Guancheng Wan
+- Lucheng Fu
+- Haoxin Liu
+- admin
+- Hui Yi Leong
+- Eric Hanchen Jiang
+- Hejia Geng
+- Jinhe Bi
+- Yunpu Ma
+- Xiangru Tang
+- B. Aditya Prakash
+- Yizhou Sun
+- Wei Wang
 
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+- Equal contribution
+- Equal contribution
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
 
 date: '2026-04-23T00:00:00Z'
 doi: ''
@@ -40,7 +51,7 @@ tags:
 
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2509.24130'
+url_pdf: https://openreview.net/forum?id=YEBDvqsniH
 
 image:
   caption: ''

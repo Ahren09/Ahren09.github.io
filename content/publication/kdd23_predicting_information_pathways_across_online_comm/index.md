@@ -29,8 +29,9 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023"
-publication_short: "KDD'23"
+publication: KDD 2023, Oral Presentation
+
+publication_short: KDD'23 · Oral
 
 abstract: We develop methods to predict how information spreads across different online communities, revealing patterns in cross-platform information diffusion.
 
@@ -63,7 +64,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'
@@ -92,5 +93,4 @@ We develop methods to predict how information spreads across different online co
 Information Diffusion, Social Networks, Cross-platform Analysis, Data Mining
 
 ## Links
-
 

@@ -1,6 +1,6 @@
 ---
 title: ScreenLLM
-summary: A multimodal LLM for Graphical User Interface understanding and action prediction. Introduces a stateful screen schema that summarizes dynamic UI sessions as time-aware text and a key-frame extractor for significant UI transitions. WebConf 2025 MM4SG Workshop.
+summary: A multimodal LLM for Graphical User Interface understanding and action prediction. Introduces a stateful screen schema that summarizes dynamic UI sessions as time-aware text and a key-frame extractor for significant UI transitions. WebConf 2025 Companion.
 tags:
   - Multimodal LLMs
   - GUI Understanding

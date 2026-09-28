@@ -35,8 +35,9 @@ publishDate: '2024-11-12T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "EMNLP 2024"
-publication_short: "EMNLP'24"
+publication: EMNLP 2024 Main Conference, Oral Presentation
+
+publication_short: EMNLP'24 · Oral
 
 abstract: Peer review is fundamental to the integrity and advancement of scientific publication. Traditional methods of peer review analyses often rely on exploration and statistics of existing peer review data, which do not adequately address the multivariate nature of the process, account for the latent variables, and are further constrained by privacy concerns due to the sensitive nature of the data. We introduce AgentReview, the first large language model (LLM) based peer review simulation framework, which effectively disentangles the impacts of multiple latent factors and addresses the privacy issue. Our study reveals significant insights, including a notable 37.1% variation in paper decisions due to reviewers' biases, supported by sociological theories such as the social influence theory, altruism fatigue, and authority bias. We believe that this study could offer valuable insights to improve the design of peer review mechanisms. 
 
@@ -69,7 +70,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'

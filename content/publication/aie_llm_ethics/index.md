@@ -1,34 +1,55 @@
 ---
-title: 'Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas'
+title: 'Deconstructing the ethics of large language models from long-standing issues to new-emerging dilemmas: a survey'
 
 authors:
-  - Chengyuan Deng
-  - Yiqun Duan
-  - Xin Jin
-  - Heng Chang
-  - Yijun Tian
-  - Han Liu
-  - Henry Peng Zou
-  - admin
-  - Yijia Xiao
-  - Yichen Wang
-  - Shenghao Wu
-  - Zongxing Xie
-  - Kuofeng Gao
-  - Sihong He
-  - Jun Zhuang
-  - Lu Cheng
-  - Haohan Wang
+- Chengyuan Deng
+- Yiqun Duan
+- Xin Jin
+- Heng Chang
+- Yijun Tian
+- Han Liu
+- Yichen Wang
+- Kuofeng Gao
+- Henry Peng Zou
+- admin
+- Yijia Xiao
+- Shenghao Wu
+- Zongxing Xie
+- Weimin Lyu
+- Sihong He
+- Lu Cheng
+- Haohan Wang
+- Jun Zhuang
 
 author_notes:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
 
 date: '2025-08-13T00:00:00Z'
-doi: ''
+doi: 10.1007/s43681-025-00797-3
+
 publishDate: '2024-06-08T00:00:00Z'
 
 publication_types: ['article-journal']
 
-publication: "AI and Ethics"
+publication: AI and Ethics, Volume 5, pages 4745–4771 (2025)
+
 publication_short: "AI and Ethics"
 
 abstract: "This survey deconstructs the ethics of large language models, mapping long-standing issues such as bias and misinformation to newly emerging dilemmas including agentic behavior, environmental cost, and cross-cultural alignment. We outline a research agenda for ethics-aware LLM development."
@@ -42,7 +63,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2406.05392'
+url_pdf: https://doi.org/10.1007/s43681-025-00797-3
 
 image:
   caption: ''

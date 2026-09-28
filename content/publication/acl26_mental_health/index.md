@@ -9,6 +9,11 @@ authors:
   - Munmun De Choudhury
 
 author_notes:
+- Equal contribution
+- Equal contribution
+- ''
+- ''
+- ''
 
 date: '2026-07-01T00:00:00Z'
 doi: ''
@@ -31,7 +36,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2505.20201'
+url_pdf: https://aclanthology.org/2026.acl-long.2164/
 
 image:
   caption: ''

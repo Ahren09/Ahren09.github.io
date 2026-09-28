@@ -27,8 +27,9 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "Annual Meeting of the Association for Computational Linguistics (ACL) 2024"
-publication_short: "ACL'24"
+publication: ACL 2024 Main Conference, Oral Presentation
+
+publication_short: ACL'24 · Oral
 
 abstract: We propose a prototypical reward network that enables data-efficient reinforcement learning from human feedback (RLHF) for large language models.
 
@@ -49,7 +50,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2406.06606'
+url_pdf: https://aclanthology.org/2024.acl-long.748.pdf
+
 url_code: ''
 url_dataset: ''
 url_poster: ''

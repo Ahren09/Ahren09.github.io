@@ -33,8 +33,9 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-publication_short: "KDD'22"
+publication: KDD 2022, Oral Presentation
+
+publication_short: KDD'22 · Oral
 
 abstract: The wide spread of fake news has caused serious societal issues. We propose a subgraph reasoning paradigm for fake news detection, which provides a crystal type of explainability by revealing which subgraphs of the news propagation network are the most important for news verification, and concurrently improves the generalization and discrimination power of graph-based detection models by removing task-irrelevant information. We introduce several novel technical components. First, we propose a reinforced subgraph generation method, and perform fine-grained modeling on the generated subgraphs by developing a Hierarchical Path-aware Kernel Graph Attention Network. Second, we design a curriculum-based optimization method to ensure better convergence and train the two parts in an end-to-end manner. Extensive experiments on real-world datasets demonstrate the effectiveness of our proposed framework.
 
@@ -57,7 +58,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.microsoft.com/en-us/research/wp-content/uploads/2022/05/KDD2022_FakeNewsDetection_camera_ready.pdf'
+url_pdf: https://dl.acm.org/doi/10.1145/3534678.3539277
+
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,7 +71,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'

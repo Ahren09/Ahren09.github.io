@@ -2,17 +2,22 @@
 title: 'UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models'
 
 authors:
-  - Sejoon Oh
-  - admin
-  - Megha Sharma
-  - Donghyun Kim
-  - Gaurav Verma
-  - Eric Ma
-  - Srijan Kumar
+- Sejoon Oh
+- admin
+- Megha Sharma
+- Donghyun Kim
+- Eric Ma
+- Gaurav Verma
+- Srijan Kumar
 
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+- Equal contribution
+- Equal contribution
+- ''
+- ''
+- ''
+- ''
+- ''
 
 date: '2025-03-03T00:00:00Z'
 doi: ''
@@ -34,7 +39,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/pdf/2411.01703'
+url_pdf: https://arxiv.org/abs/2411.01703
 
 image:
   caption: ''

@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Computer Science
+role: Final-year Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -67,7 +67,7 @@ education:
     summary: |
       - Advisor: Prof. Srijan Kumar.
       - Research on multimodal foundation models, world models and spatial reasoning, LLM agents and multi-agent systems, and post-training and self-improvement.
-      - Publications include EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, CIKM'24, AAAI'23.
+      - Publications include NeurIPS'26, EMNLP'26, ACL'26, ICLR'26, ICWSM'26, EMNLP'25, ACL'25, WebConf'24, ACL'24, KDD'23, CIKM'24, AAAI'23.
       - GPA: 4.0/4.0.
   - area: B.S. in Computer Science
     institution: University of California, Los Angeles (UCLA)
@@ -87,18 +87,18 @@ work:
     date_start: 2026-08-01
     date_end: 2026-11-30
     summary: |
-      - Develop a unified agentic framework based on diffusion language models (dLMs) for task completion and world modeling.
+      - Develop joint policy and world model networks for long-trajectory agentic tasks.
       - Mentor: Anwesan Pal. Manager: Narayanan Sadagopan.
-  - position: Ph.D. Research Intern
+  - position: Ph.D. Intern
     company_name: Waymo
     company_url: 'https://waymo.com/'
     company_logo: logo_waymo
     date_start: 2026-05-01
     date_end: 2026-08-31
     summary: |
-      - Perception Team. Developed a unified VLM for autonomous driving perception (patent application pending) that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera observations and sparse LiDAR.
-      - Built core perceptual capabilities for vision-language-action (VLA) systems — dense depth, object-centric distance, driving relevance, depth ordering, and time-to-reach reasoning — through a shared geometry-language scene representation.
-      - Mentors: Mayank Singal, Prasanna Krishnasamy. Managers: Ming Zou, Christian Lauterbach.
+      - Developed a unified VLM for embodied AI perception across diverse weather, geographic regions, and lighting conditions (patent pending).
+      - Built perceptual capabilities for vision-language-action (VLA) systems, including dense depth, object distance, driving relevance, depth ordering, and time-to-reach reasoning, through a shared geometry-language representation.
+      - Mentor: Prasanna Krishnasamy. Managers: Ming Zou, Christian Lauterbach.
   - position: Research Scientist Intern
     company_name: J.P. Morgan AI Research
     company_url: 'https://www.jpmorgan.com/technology/artificial-intelligence'
@@ -106,8 +106,8 @@ work:
     date_start: 2025-06-02
     date_end: 2025-08-15
     summary: |
-      - Led SlideAgent, a hierarchical agentic framework for multi-page visual document understanding (ACL 2026 main).
-      - Built MLLM-based agentic pipelines for parsing high-resolution slide decks and financial reports, integrating context compression and retrieval-augmented generation.
+      - Led SlideAgent, a hierarchical agentic framework for multi-page visual document understanding (ACL 2026 Main; patent pending).
+      - Built multimodal pipelines for slide decks and financial reports, including MM-BizRAG (ACL 2026 Industry Track), integrating context compression and retrieval-augmented generation.
       - Mentors: Rachneet Kaur, Zhen Zeng. Managers: Sumitra Ganesh, Manuela Veloso.
   - position: Research Collaborator (Visa Research Grant)
     company_name: Visa Research
@@ -116,7 +116,7 @@ work:
     date_start: 2024-08-01
     date_end: 2025-05-15
     summary: |
-      - Led SARA, a selective and adaptive RAG framework with context compression (ACL 2026 main).
+      - Led SARA, a selective and adaptive RAG framework with context compression (ACL 2026 Main, Oral).
       - Developed a hybrid compression strategy combining fine-grained spans with compact semantic vectors, achieving consistent gains across Mistral, Llama, and Gemma.
       - Mentors: Vineeth Rakesh Mohan, Yingtong Dou, Menghai Pan. Manager: Mahashweta Das.
   - position: Research Scientist Intern
@@ -126,7 +126,7 @@ work:
     date_start: 2024-05-06
     date_end: 2024-08-09
     summary: |
-      - Built ScreenLLM, a multimodal LLM for GUI understanding and action prediction (WebConf'25 MM4SG Workshop).
+      - Built ScreenLLM, a multimodal LLM for GUI understanding and action prediction (WebConf'25 Companion).
       - Designed a stateful screen schema that summarizes dynamic UI sessions as time-aware textual context, plus a key-frame extractor for significant UI transitions.
       - Mentors: Gang Wu, Yu Shen, Stefano Petrangeli. Managers: Saayan Mitra, Vishy Swaminathan.
   - position: Research Scientist Intern
@@ -244,11 +244,13 @@ awards:
 ---
 ## About Me
 
-Hello👋! I am Yiqiao Jin (靳轶乔, Ahren), a Computer Science Ph.D. candidate at Georgia Tech, advised by Prof. [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/).
+Hello👋! I am Yiqiao Jin (靳轶乔, Ahren), a final-year Computer Science Ph.D. candidate at Georgia Tech, advised by Prof. [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/).
 
 My research sits at the intersection of **multimodal foundation models**, **intelligent agents**, and **spatial/physical intelligence**: building general-purpose models that can **perceive, reason, learn, and act** in interactive virtual and physical environments. I work across four threads — **vision-language and multimodal models (VLMs/MLLMs)**; **world models, embodied AI, and spatial reasoning**; **LLM agents and multi-agent systems**; and **post-training, reinforcement learning, and self-improvement**. My work has appeared at ACL, EMNLP, ICML, NeurIPS, ICLR, KDD, AAAI, CIKM, and The Web Conference, including several oral presentations.
 
-Most recently at **Waymo** (Perception team), I developed a unified VLM for autonomous driving that learns dense metric scene geometry and sensor-grounded spatial reasoning from camera and sparse LiDAR (patent application pending), providing core perceptual capabilities for vision-language-action (VLA) systems. I am currently an Applied Scientist Intern at **Amazon**, building a unified agentic framework based on diffusion language models (dLMs) . Earlier, I built agentic and multimodal systems at **J.P. Morgan AI Research** (SlideAgent, ACL'26), **Visa Research** (SARA, ACL'26), **Adobe Research**, and **Microsoft Research Asia**; before Georgia Tech, I worked with Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) at the UCLA Scalable Analytics Institute (ScAi).
+Recent work includes [**AgentArk**](/publication/neurips26_agentark/) (NeurIPS 2026), which distills multi-agent reasoning into a single LLM; [**MASCOT**](/publication/emnlp26_mascot/) (EMNLP 2026 Main), on persona consistency and collaborative dialogue; and [**UniSD**](/publication/neurips26_unisd/) (COLM 2026 LLA Workshop), on self-distillation. My position papers examine [**consistency in unified multimodal models**](/publication/emnlp26_consistency_umm/) and a [**roadmap beyond structural unification**](/publication/neurips26_unified_multimodal_roadmap/) (NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models).
+
+At **Amazon**, I develop joint policy and world model networks for long-trajectory agentic tasks. Previously at **Waymo**, I developed a unified VLM for embodied AI perception and spatial reasoning (patent pending). Earlier, I built agentic and multimodal systems at **J.P. Morgan AI Research** (SlideAgent, ACL 2026 Main; MM-BizRAG, ACL 2026 Industry), **Visa Research** (SARA, ACL 2026 Main, Oral), **Adobe Research**, and **Microsoft Research Asia**. Before Georgia Tech, I worked with Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) at the UCLA Scalable Analytics Institute (ScAi).
 
 Selected honors include the [**MLCommons ML and Systems Rising Stars (2026)**](https://mlcommons.org/2026/05/2026-rising-stars/), [**Best Paper Award at Good-Data @ AAAI 2025 Workshop**](https://sites.google.com/servicenow.com/good-data-2025/program?authuser=0), **Roblox Graduate Fellowship Finalist (2024)**, and the **Microsoft Research "Star of Tomorrow" Award**. My work on cross-lingual LLM evaluation has been featured by [Scientific American](https://www.scientificamerican.com/article/chatbots-medical-questions-language/), [The World](https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages), and [Georgia Tech News](https://www.gatech.edu/news/2024/05/15/chatbots-are-poor-multilingual-healthcare-consultants-study-finds).
 

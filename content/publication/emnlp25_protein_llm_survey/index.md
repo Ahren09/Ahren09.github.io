@@ -26,8 +26,9 @@ publishDate: '2025-02-25T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: "Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025"
-publication_short: "EMNLP'25"
+publication: Findings of EMNLP 2025
+
+publication_short: EMNLP'25 Findings
 
 abstract: "Protein large language models (Protein LLMs) have rapidly emerged as a transformative paradigm for protein understanding, generation, and design. This survey provides a comprehensive overview of Protein LLMs, organizing the field along architectures, training objectives, datasets, downstream tasks, and applications across biology, chemistry, and medicine. We discuss key challenges, open problems, and future research directions, and provide a unified taxonomy for navigating this rapidly evolving area. EMNLP 2025 acceptance rate: 22.2%."
 
@@ -40,7 +41,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2502.17504'
+url_pdf: https://aclanthology.org/2025.findings-emnlp.1255/
 
 image:
   caption: ''

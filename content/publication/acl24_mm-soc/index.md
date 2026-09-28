@@ -1,5 +1,5 @@
 ---
-title: 'MM-SOC: Benchmarking Multimodal Large Language Models in Social Media Platforms'
+title: 'MM-Soc: Benchmarking Multimodal Large Language Models in Social Media Platforms'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -49,7 +49,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2402.14154'
+url_pdf: https://aclanthology.org/2024.findings-acl.370/
+
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -25,3 +25,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Blogs
+    url: blogs/
+    weight: 50

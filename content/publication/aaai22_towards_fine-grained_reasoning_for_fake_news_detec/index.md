@@ -29,8 +29,9 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI Conference on Artificial Intelligence 2022"
-publication_short: "AAAI'22"
+publication: AAAI 2022, Oral Presentation
+
+publication_short: AAAI'22 · Oral
 
 abstract: We propose a fine-grained reasoning framework for fake news detection by following the human information-processing model and designing a prior-aware bi-channel kernel graph network.
 

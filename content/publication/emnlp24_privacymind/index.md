@@ -1,21 +1,35 @@
 ---
-title: 'PrivacyMind: Large Language Models Can Be Contextual Privacy Protection Learners'
+title: Large Language Models Can Be Contextual Privacy Protection Learners
 
 authors:
-  - Yijia Xiao
-  - admin
-  - Yushi Bai
-  - Yue Wu
-  - Xianjun Yang
-  - Xiao Luo
-  - Wenchao Yu
-  - Xujiang Zhao
-  - Yanchi Liu
-  - Haifeng Chen
-  - Wei Wang
-  - Wei Cheng
+- Yijia Xiao
+- admin
+- Yushi Bai
+- Yue Wu
+- Xianjun Yang
+- Xiao Luo
+- Wenchao Yu
+- Xujiang Zhao
+- Yanchi Liu
+- Quanquan Gu
+- Haifeng Chen
+- Wei Wang
+- Wei Cheng
 
 author_notes:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
 
 date: '2024-11-12T00:00:00Z'
 doi: ''
@@ -37,7 +51,7 @@ tags:
 
 featured: false
 
-url_pdf: 'https://arxiv.org/abs/2310.02469'
+url_pdf: https://aclanthology.org/2024.emnlp-main.785/
 
 image:
   caption: ''

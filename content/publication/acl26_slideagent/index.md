@@ -47,7 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2510.26615'
+url_pdf: https://aclanthology.org/2026.acl-long.677/
+
 url_code: ''
 url_dataset: ''
 url_poster: 'https://ahren09.github.io/uploads/SlideAgent_Poster.pdf'

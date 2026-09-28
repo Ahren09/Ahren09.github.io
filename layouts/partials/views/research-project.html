@@ -1,0 +1,26 @@
+{{ $item := .item }}
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+
+<article class="group">
+  {{ with $resource }}
+    {{ $image := .Fit "960x540" }}
+    {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+    <a class="relative block aspect-video overflow-hidden rounded-md bg-gray-100 dark:bg-gray-800"
+       href="{{ $item.RelPermalink }}" aria-label="{{ $item.Title }}">
+      <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title | plainify }}"
+           width="{{ $image.Width }}" height="{{ $image.Height }}"
+           loading="lazy" decoding="async"
+           style="position: absolute; height: 100%; width: 100%; inset: 0; object-fit: contain;">
+    </a>
+  {{ end }}
+  <p class="mt-3 text-sm text-gray-500 dark:text-gray-400">
+    {{ with $item.Params.publication_short }}{{ . | markdownify }} · {{ end }}
+    <time datetime="{{ $item.Date.Format "2006-01-02" }}">{{ $item.Date.Format "2006" }}</time>
+  </p>
+  <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white">
+    <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
+  </h2>
+  <p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400">
+    {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}
+  </p>
+</article>

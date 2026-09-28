@@ -14,7 +14,12 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Lead author'
+- Equal contribution (Lead author)
+- Equal contribution
+- ''
+- ''
+- ''
+- ''
 
 date: '2024-01-01T00:00:00Z'
 doi: '10.1145/3589334.3645643'
@@ -28,8 +33,9 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "The Web Conference (WWW) 2024"
-publication_short: "WWW'24"
+publication: The Web Conference 2024, Oral Presentation
+
+publication_short: WebConf'24 · Oral
 
 abstract: We present a framework and benchmark to evaluate LLMs' multilingual capabilities in healthcare queries, revealing significant performance gaps across languages and providing insights for improving healthcare accessibility globally.
 
@@ -62,7 +68,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'

@@ -1,23 +1,18 @@
 ---
 title: Teaching
-summary: My courses
+summary: Teaching experience at Georgia Institute of Technology.
 type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+design:
+  spacing: '5rem'
 
 sections:
-  - block: collection
+  - block: markdown
     id: teaching
     content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
+      text: |-
+        I taught **CS 8803 DSN** at **Georgia Institute of Technology** in **Fall 2023**.
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
 ---
