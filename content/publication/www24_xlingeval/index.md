@@ -62,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'

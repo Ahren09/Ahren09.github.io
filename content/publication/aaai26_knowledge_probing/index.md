@@ -9,13 +9,13 @@ authors:
 
 author_notes:
 
-date: '2026-02-01T00:00:00Z'
+date: '2025-08-08T00:00:00Z'
 doi: ''
 publishDate: '2025-08-08T00:00:00Z'
 
 publication_types: ['preprint']
 
-publication: "Under Review at AAAI 2026 (Preprint)"
+publication: "arXiv preprint arXiv:2508.06030"
 publication_short: "Preprint"
 
 abstract: "Probing what a large language model knows is essential for safe deployment, but exhaustive probing is prohibitively expensive. We propose an efficient knowledge probing approach that adapts pre-trained embeddings to query LLM knowledge with substantially reduced compute, while preserving the fidelity of standard probing protocols."

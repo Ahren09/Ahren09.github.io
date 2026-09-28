@@ -1,5 +1,5 @@
 ---
-title: 'Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas'
+title: 'Deconstructing the Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas: A Survey'
 
 authors:
   - Chengyuan Deng

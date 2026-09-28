@@ -1,5 +1,5 @@
 ---
-title: 'Code Recommendation for Open Source Project Developers'
+title: 'Code Recommendation for Open Source Software Developers'
 
 authors:
   - admin

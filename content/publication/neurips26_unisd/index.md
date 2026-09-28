@@ -25,18 +25,18 @@ author_notes:
   - ''
   - ''
 
-date: '2026-05-30T00:00:00Z'
+date: '2026-05-07T00:00:00Z'
 doi: ''
-publishDate: '2026-05-30T00:00:00Z'
+publishDate: '2026-05-07T00:00:00Z'
 
 publication_types: ['preprint']
 
-publication: "Under Review at NeurIPS 2026 (Preprint)"
+publication: "arXiv preprint arXiv:2605.06597"
 publication_short: "Preprint"
 
-abstract: "Self-distillation has emerged as a powerful technique for improving large language models without external teacher signals, but existing approaches are fragmented across diverse objectives, training signals, and model components. We introduce UniSD, a unified self-distillation framework that consolidates these directions into a single, modular formulation. UniSD enables systematic comparison of self-distillation variants and supports new combinations across data, representation, and decoding levels, providing a principled foundation for efficient and adaptive LLM training."
+abstract: "UniSD studies how to adapt autoregressive language models through self-distillation without stronger external teachers. It combines multi-teacher agreement, EMA teacher stabilization, token-level contrastive learning, feature matching, and divergence clipping to examine supervision reliability, representation alignment, and training stability. Experiments across six benchmarks and six models identify complementary components for an integrated self-distillation pipeline."
 
-summary: UniSD unifies the fragmented landscape of self-distillation for large language models, providing a principled framework that supports systematic comparison and new combinations across data, representation, and decoding levels.
+summary: A unified study of LLM self-distillation that combines teacher agreement, EMA stabilization, contrastive learning, feature matching, and divergence clipping to improve adaptation without stronger external teachers.
 
 tags:
   - Self-Distillation
@@ -47,7 +47,8 @@ tags:
 featured: true
 
 url_pdf: 'https://arxiv.org/abs/2605.06597'
-url_code: ''
+url_code: 'https://github.com/Ahren09/UniSD'
+url_project: 'https://unifiedsd.github.io/'
 url_dataset: ''
 
 image:
@@ -59,10 +60,12 @@ projects: []
 slides: ""
 ---
 
-## Abstract
+## Overview
 
-Self-distillation has emerged as a powerful technique for improving large language models without external teacher signals, but existing approaches are fragmented across diverse objectives, training signals, and model components. We introduce UniSD, a unified self-distillation framework that consolidates these directions into a single, modular formulation. UniSD enables systematic comparison of self-distillation variants and supports new combinations across data, representation, and decoding levels.
+UniSD studies how to adapt autoregressive language models through self-distillation without stronger external teachers. It brings together teacher agreement, EMA stabilization, contrastive learning, feature matching, and divergence clipping, examining their individual effects and interactions across six benchmarks and six models.
 
 ## Links
 
 - [arXiv](https://arxiv.org/abs/2605.06597)
+- [Project website](https://unifiedsd.github.io/)
+- [Code](https://github.com/Ahren09/UniSD)
