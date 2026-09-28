@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Model architecture and key components'
+  caption: ''
   focal_point: 'Smart'
   preview_only: false
   alt_text: 'Figure showing the main model architecture and workflow'
@@ -92,5 +92,4 @@ We develop methods to predict how information spreads across different online co
 Information Diffusion, Social Networks, Cross-platform Analysis, Data Mining
 
 ## Links
-
 

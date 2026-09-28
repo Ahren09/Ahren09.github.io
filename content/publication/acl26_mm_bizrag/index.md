@@ -21,12 +21,12 @@ publishDate: '2026-01-01T00:00:00Z'
 
 publication_types: ['paper-conference']
 
-publication: "Annual Meeting of the Association for Computational Linguistics (ACL) 2026, Industry Track"
+publication: "ACL 2026 Industry Track"
 publication_short: "ACL'26 Industry"
 
-abstract: "Enterprise question answering frequently spans heterogeneous modalities — text, tables, charts, scanned documents, and structured databases. We introduce MM-BizRAG, a multimodal retrieval-augmented generation framework designed for general purpose enterprise Q&A. MM-BizRAG combines modality-aware retrieval, structured-context fusion, and grounded generation, and is evaluated on enterprise-realistic workloads."
+abstract: "MM-BizRAG uses document structure to guide multimodal retrieval-augmented generation for enterprise Q&A. It routes report-style documents through layout-aware parsing and slide decks through page-level representations, preserves reading order during artifact transformation, and assembles multimodal context at inference time. The framework is evaluated on enterprise documents, SlideVQA, and FinRAGBench-V, and introduces FastRAGEval for measuring generative recall."
 
-summary: MM-BizRAG is a multimodal RAG framework designed for general purpose enterprise Q&A, combining modality-aware retrieval, structured-context fusion, and grounded generation.
+summary: Structure-aware multimodal RAG for enterprise Q&A, combining layout-aware report parsing, page-level slide representations, and inference-time context assembly. Includes FastRAGEval for efficient answer evaluation.
 
 tags:
   - Retrieval-Augmented Generation
@@ -35,7 +35,8 @@ tags:
 
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://aclanthology.org/2026.acl-industry.134.pdf'
+url_source: 'https://aclanthology.org/2026.acl-industry.134/'
 
 image:
   caption: ''
@@ -46,6 +47,6 @@ projects: []
 slides: ""
 ---
 
-## Abstract
+## Overview
 
-Enterprise question answering frequently spans heterogeneous modalities — text, tables, charts, scanned documents, and structured databases. We introduce MM-BizRAG, a multimodal retrieval-augmented generation framework designed for general purpose enterprise Q&A.
+MM-BizRAG routes reports and slide decks through ingestion pipelines tailored to their structure, preserves reading order, and assembles multimodal context at inference time. It also introduces FastRAGEval, a single-call LLM judge for fine-grained generative recall.

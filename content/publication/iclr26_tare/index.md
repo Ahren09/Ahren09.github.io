@@ -1,5 +1,5 @@
 ---
-title: 'Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models'
+title: 'Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE'
 
 authors:
   - Guancheng Wan

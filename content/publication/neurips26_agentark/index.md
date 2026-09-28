@@ -23,18 +23,18 @@ author_notes:
   - ''
   - ''
 
-date: '2026-02-04T00:00:00Z'
+date: '2026-02-03T00:00:00Z'
 doi: ''
-publishDate: '2026-02-04T00:00:00Z'
+publishDate: '2026-02-03T00:00:00Z'
 
-publication_types: ['conference']
+publication_types: ['paper-conference']
 
 publication: "NeurIPS 2026"
-publication_short: "neurips26"
+publication_short: "NeurIPS'26"
 
-abstract: "Multi-agent systems achieve strong performance on complex tasks by orchestrating diverse roles, planners, and tool-using agents. However, deploying full multi-agent stacks is expensive and brittle. We introduce AgentArk, a distillation framework that compresses multi-agent intelligence into a single LLM agent. AgentArk decomposes multi-agent trajectories into role-conditioned skills and trains a single agent to reproduce the collaborative behavior of the original ensemble, recovering most of the performance at a fraction of the cost."
+abstract: "AgentArk transfers the reasoning dynamics of multi-agent debate into a single language model. It studies reasoning-enhanced fine-tuning, trajectory-based augmentation, and process-aware distillation, moving computation from inference to training. The resulting agent aims to retain the reasoning, self-correction, and generalization benefits of multi-agent interaction with the inference cost of one model."
 
-summary: AgentArk distills the collaborative behavior of multi-agent systems into a single LLM agent, decomposing trajectories into role-conditioned skills and recovering most of the ensemble's performance at a fraction of the cost.
+summary: Distills multi-agent debate into one LLM through reasoning-enhanced fine-tuning, trajectory-based augmentation, and process-aware distillation, moving computation from inference to training.
 
 tags:
   - LLM Agents
@@ -45,6 +45,7 @@ tags:
 featured: true
 
 url_pdf: 'https://arxiv.org/abs/2602.03955'
+url_code: 'https://github.com/AIFrontierLab/AgentArk'
 
 image:
   caption: ''
@@ -55,10 +56,11 @@ projects: []
 slides: ""
 ---
 
-## Abstract
+## Overview
 
-Multi-agent systems achieve strong performance on complex tasks by orchestrating diverse roles, planners, and tool-using agents. However, deploying full multi-agent stacks is expensive and brittle. We introduce AgentArk, a distillation framework that compresses multi-agent intelligence into a single LLM agent. AgentArk decomposes multi-agent trajectories into role-conditioned skills and trains a single agent to reproduce the collaborative behavior of the original ensemble.
+AgentArk transfers multi-agent reasoning into a single language model through reasoning-enhanced fine-tuning, trajectory-based augmentation, and process-aware distillation. It studies how moving computation into training affects reasoning, self-correction, robustness, and generalization.
 
 ## Links
 
 - [arXiv](https://arxiv.org/abs/2602.03955)
+- [Code](https://github.com/AIFrontierLab/AgentArk)

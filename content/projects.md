@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2026-09-28
 type: landing
 
 design:
@@ -12,13 +12,15 @@ sections:
   - block: collection
     content:
       title: Research Projects
-      text: A selection of research projects across multimodal foundation models, world models and embodied AI, LLM agents and multi-agent systems, and post-training and self-improvement.
+      text: Research across multimodal foundation models, LLM agents, post-training, and responsible AI. See the [selected publication list](/publication/) and [Google Scholar](https://scholar.google.com/citations?user=eY85qm4AAAAJ).
       count: 0
+      sort_by: Date
+      sort_ascending: false
       filters:
         folders:
-          - project
+          - publication
     design:
-      view: article-grid
+      view: research-project
       fill_image: false
       columns: 3
 ---

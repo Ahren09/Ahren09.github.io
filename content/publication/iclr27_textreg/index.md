@@ -12,18 +12,18 @@ authors:
 
 author_notes:
 
-date: '2026-05-30T00:00:00Z'
+date: '2026-05-20T00:00:00Z'
 doi: ''
-publishDate: '2026-05-30T00:00:00Z'
+publishDate: '2026-05-20T00:00:00Z'
 
 publication_types: ['preprint']
 
-publication: "Under Review at ICLR 2027"
+publication: "arXiv preprint arXiv:2605.21318"
 publication_short: "Preprint"
 
 abstract: "Prompt optimization methods often overfit to narrow training distributions, producing prompts that fail to transfer. TextReg introduces a regularized text-space optimization objective that explicitly mitigates prompt distributional overfitting, improving robustness across tasks, models, and evaluation distributions."
 
-summary: TextReg introduces a regularized text-space optimization objective that mitigates prompt distributional overfitting, improving robustness across tasks, models, and evaluation distributions.
+summary: Regularizes prompt optimization to limit prompt bloat and narrow, sample-specific rules. Combines gradient purification, semantic edit regularization, and regularization-guided updates to improve out-of-distribution generalization.
 
 tags:
   - Prompt Optimization
@@ -33,6 +33,7 @@ tags:
 featured: true
 
 url_pdf: 'https://arxiv.org/abs/2605.21318'
+url_code: 'https://github.com/luchengfu6/TextReg'
 
 image:
   caption: ''
@@ -50,3 +51,4 @@ Prompt optimization methods often overfit to narrow training distributions, prod
 ## Links
 
 - [arXiv](https://arxiv.org/abs/2605.21318)
+- [Code](https://github.com/luchengfu6/TextReg)

@@ -27,7 +27,7 @@ publishDate: '2026-02-03T00:00:00Z'
 
 publication_types: ['preprint']
 
-publication: "Under Review at EMNLP 2026"
+publication: "TechRxiv preprint"
 publication_short: "Preprint"
 
 abstract: "Unified multimodal models (UMMs) aim to handle understanding and generation across modalities within a single architecture. Despite rapid progress, current UMMs frequently produce inconsistent outputs across views, modalities, and prompts. In this position paper, we argue that consistency, not capability, should be the priority research target for UMMs. We characterize three forms of consistency (cross-view, cross-modal, and cross-prompt), survey current evaluation gaps, and outline a roadmap for consistency-driven UMM research."
