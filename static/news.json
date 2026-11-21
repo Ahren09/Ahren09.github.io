@@ -1,5 +1,9 @@
 [
     {
+        "date": "2026-11-20",
+        "text": "🎉 Selected for <a href='https://risingstars.cs.washington.edu/'>Rising Stars in EECS 2026–2027</a> at the <b>University of Washington</b>."
+    },
+    {
         "date": "2026-11-04",
         "text": "📄 Research update: <a href='/publication/neurips26_agentark/'>AgentArk</a> is accepted at <b>NeurIPS 2026</b>. Our position paper <a href='/publication/neurips26_unified_multimodal_roadmap/'>Beyond Structural Unification</a> is accepted at the <b>NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models</b>."
     },

@@ -209,6 +209,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Rising Stars in EECS 2026–2027
+    date: '2026-11-20'
+    awarder: University of Washington
+    icon: academicons/orcid
+    url: https://risingstars.cs.washington.edu/
+    summary: "Selected participant for the January 2027 workshop."
   - title: MLCommons ML and Systems Rising Stars
     date: '2026-01-01'
     awarder: MLCommons
@@ -252,6 +258,6 @@ Recent work includes [**AgentArk**](/publication/neurips26_agentark/) (NeurIPS 2
 
 At **Amazon**, I develop joint policy and world model networks for long-trajectory agentic tasks. Previously at **Waymo**, I developed a unified VLM for embodied AI perception and spatial reasoning (patent pending). Earlier, I built agentic and multimodal systems at **J.P. Morgan AI Research** (SlideAgent, ACL 2026 Main; MM-BizRAG, ACL 2026 Industry), **Visa Research** (SARA, ACL 2026 Main, Oral), **Adobe Research**, and **Microsoft Research Asia**. Before Georgia Tech, I worked with Prof. [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and Prof. [Wei Wang](http://web.cs.ucla.edu/~weiwang/) at the UCLA Scalable Analytics Institute (ScAi).
 
-Selected honors include the [**MLCommons ML and Systems Rising Stars (2026)**](https://mlcommons.org/2026/05/2026-rising-stars/), [**Best Paper Award at Good-Data @ AAAI 2025 Workshop**](https://sites.google.com/servicenow.com/good-data-2025/program?authuser=0), **Roblox Graduate Fellowship Finalist (2024)**, and the **Microsoft Research "Star of Tomorrow" Award**. My work on cross-lingual LLM evaluation has been featured by [Scientific American](https://www.scientificamerican.com/article/chatbots-medical-questions-language/), [The World](https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages), and [Georgia Tech News](https://www.gatech.edu/news/2024/05/15/chatbots-are-poor-multilingual-healthcare-consultants-study-finds).
+Selected honors include selection for [**Rising Stars in EECS 2026–2027 at the University of Washington**](https://risingstars.cs.washington.edu/), the [**MLCommons ML and Systems Rising Stars (2026)**](https://mlcommons.org/2026/05/2026-rising-stars/), [**Best Paper Award at Good-Data @ AAAI 2025 Workshop**](https://sites.google.com/servicenow.com/good-data-2025/program?authuser=0), **Roblox Graduate Fellowship Finalist (2024)**, and the **Microsoft Research "Star of Tomorrow" Award**. My work on cross-lingual LLM evaluation has been featured by [Scientific American](https://www.scientificamerican.com/article/chatbots-medical-questions-language/), [The World](https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages), and [Georgia Tech News](https://www.gatech.edu/news/2024/05/15/chatbots-are-poor-multilingual-healthcare-consultants-study-finds).
 
 {style="text-align: justify;"}
